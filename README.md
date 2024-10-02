@@ -110,6 +110,10 @@ Within constraints set by management and labor unions, DAOs introduce a layer of
 
 [RnDAO](https://www.rndao.io/)
 
+Daniel Ospina
+*Organization Design Facilitator*
+RnDAO
+
 <!-- **Kevin Owocki, Founder, Gitcoin | 1-on-1 session -->
 <!-- **Nick Almond, Founder, Factory DAO | implementation -->
 <!-- **Andrea Gallagher, Research Lead, RnDAO | methodologies -->
