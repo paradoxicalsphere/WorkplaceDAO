@@ -61,7 +61,7 @@ Management, and union leadership if applicable, are empowered to revise the oper
 Customers may benefit from improved organizational responsiveness and engagement that DAOs may facilitate.
 
 <p align="center">
-    <img src="https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/main/dao4web2/images/DAOs%20Within%20Workplaces.png" alt="" title="">
+    <img src="https://github.com/paradoxicalsphere/rndao-hackathon-2024/blob/main/images/DAOs%20Within%20Workplaces.png" alt="" title="">
     <br>
     <i>Figure 1 - Stakeholder Map of an Incorruptible DAO Within an Organization or Workplace</i>
 </p>
