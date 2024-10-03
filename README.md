@@ -104,7 +104,7 @@ DAO participants must also understand that infinite games may be played as finit
 
 Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">5</a></sup>
 
-In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">6</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees may have a greater impact on the company's growth.<sup><a href="#JuliaMartins">7</a></sup>
+In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">6</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">7</a></sup>
 
 
 
