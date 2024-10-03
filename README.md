@@ -92,6 +92,8 @@ DAO participants must also understand that infinite games may be played as finit
 
 ## Feasibility<a name="feasibility"></a>
 
+
+
 <!-- Discuss HR and employment standards that may apply to scope of DAO responsibilities -->
 
 <!-- What about privacy considerations, for DAO members transacting on chain? -->
@@ -102,7 +104,7 @@ DAO participants must also understand that infinite games may be played as finit
 
 Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">5</a></sup>
 
-Within constraints set by management and labor unions, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work. Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams.<sup><a href="#JuliaMartins">6</a></sup>
+In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">6</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees may have a greater impact on the company's growth.<sup><a href="#JuliaMartins">7</a></sup>
 
 
 
@@ -143,4 +145,6 @@ RnDAO
 
 <a name="SterzikThesis"></a><sup>5</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
 
-<a name="JuliaMartins"></a><sup>6</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+<a name="Chainwire"></a><sup>6</sup> [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
+
+<a name="JuliaMartins"></a><sup>7</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
