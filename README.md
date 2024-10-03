@@ -40,6 +40,8 @@ Use the solution approach to define the solution scope.
 
 ## Assumptions and Constraints<a name="assumptions"></a>
 
+DAOs offer a model for ratifying decisions. In the current proposal, existing processes and workflows for analysis, evaluation, planning, elicitation, collaboration, design, management and communication within organizations and workplaces are needed to inform decisions that a DAO may make collectively.
+
 <!-- TO-DO: Discuss with Gema Diaz the potential responsibilities as well as the limits of responsibilities for such a DAO established within an organization or workplace, considering employment law. -->
 
 Successful DAOs build cooperation.<sup><a href="#Veritasium">2</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">3</a></sup>
