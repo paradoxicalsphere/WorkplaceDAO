@@ -40,7 +40,7 @@ Use the solution approach to define the solution scope.
 
 ## Assumptions and Constraints<a name="assumptions"></a>
 
-DAOs offer a model specifically for ratifying decisions. In the current proposal, existing resources, processes and workflows available within organizations and workplaces for analysis, evaluation, planning, elicitation, collaboration, design, management and communication inform the collective decisions that a DAO may make. Determining the solution scope identifies business decisions to entrust to a DAO.
+DAOs offer a model specifically for ratifying decisions. In the current proposal, existing resources, processes and workflows available within organizations and workplaces for analysis, evaluation, planning, elicitation, collaboration, design, management and communication inform the collective decisions that a DAO may make. Determining the solution scope identifies the business decisions entrusted to a DAO.
 
 <!-- TO-DO: Discuss with Gema Diaz the potential responsibilities as well as the limits of responsibilities for such a DAO established within an organization or workplace, considering employment law. -->
 
