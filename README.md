@@ -120,8 +120,8 @@ Daniel Ospina
 *Organization Design Facilitator*  
 RnDAO
 
-Kevin Owocki
-*Co-Founder*
+Kevin Owocki  
+*Co-Founder*  
 Gitcoin
 
 <!-- **Kevin Owocki, Founder, Gitcoin | 1-on-1 session -->
