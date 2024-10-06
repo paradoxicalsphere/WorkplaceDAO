@@ -64,6 +64,8 @@ The integrity of voting in a DAO requires:<sup><a href="#KevinOwocki">2</a></sup
 - Accurate identification of DAO members
 - DAO members NOT colluding to vote to each other's advantage
 
+The current proposal assumes that implementing an incorruptible DAO within an existing organization or workplace is a long-term decision aiming to establish the DAO as a permanent—rather than short-term or temporary—internal decision-making structure.
+
 Successful DAOs build cooperation.<sup><a href="#Veritasium">3</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">4</a></sup>
 
 ## Solution Components<a name="components"></a>
