@@ -92,6 +92,8 @@ Customers may benefit from improved organizational responsiveness and engagement
 
 When designing a DAO, the solution approach informs the solution scope.
 
+<!-- To design a DAO that gives people what they need, work backwards from the customer -->
+
 ### Software Applications<a name="software"></a>
 
 Software application designs provide required features and functionality without users needing to understand the details of Web 3.0<sup><a href="#Chainwire">6</a></sup>
