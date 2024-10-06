@@ -30,7 +30,7 @@ License: DMCA
 
 Decentralized Autonomous Organizations (DAOs) offer a model for decision making that distributes voting rights across all members. For example, whereas members in a labor union elect a centralized leadership, there is usually no central authority in a DAO—only the will of the collective. Within an existing organization or workplace, DAO members may assume a share of duties and responsibilities usually associated with management levels. The relationship between DAOs and labor unions is complementary.
 
-DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making. In a DAO, decision-making power typically is associated with one or more tokens created on a blockchain. Tokens represent a form of resource allocation. A blockchain is a digital ledger used to track token resource allocation immutably. Historically, DAOs rely on token-weighted governance, in which users with the most tokens have the biggest share of voting power. Unfortunately, token-weighted governance models can inadvertently end up handing over control to a few participants holding the majority of tokens, stripping influence away from the many.<sup><a href="#SashaIvanov">1</a></sup> The integrity of voting in a DAO also depends on accurate identification of DAO members.
+DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making. In a DAO, decision-making power typically is associated with one or more tokens created on a blockchain. Tokens represent a form of resource allocation. A blockchain is a digital ledger used to track token resource allocation immutably. Historically, DAOs rely on token-weighted governance, which is plutocratic. In other words, users with the most tokens have the biggest share of voting power. Unfortunately, token-weighted governance models can inadvertently end up handing over control to a few participants holding the majority of tokens, stripping influence away from the many.<sup><a href="#SashaIvanov">1</a></sup>
 
 The current proposal offers a solution approach for implementing a DAO within an existing organization or workplace, leveraging the structures and strengths already established to ensure that the DAO remains incorruptible over time.
 
@@ -55,6 +55,12 @@ Use the solution approach to define the solution scope.
 DAOs offer a model specifically for ratifying decisions. In the current proposal, existing resources, processes and workflows available within organizations and workplaces for analysis, evaluation, planning, elicitation, collaboration, design, management and communication inform the collective decisions that a DAO may make. Determining the solution scope identifies the business decisions entrusted to a DAO.
 
 <!-- TO-DO: Discuss with Gema Diaz the potential responsibilities as well as the limits of responsibilities for such a DAO established within an organization or workplace, considering employment law. -->
+
+The integrity of voting in a DAO depends on:
+
+- A fair and representative distribution of voting power
+- Accurate identification of DAO members
+- DAO members not colluding
 
 Successful DAOs build cooperation.<sup><a href="#Veritasium">2</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">3</a></sup>
 
