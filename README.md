@@ -107,6 +107,8 @@ Software application designs provide required features and functionality without
 
 ## Methodologies<a name="methodologies"></a>
 
+Over time, the solution scope and operating rules of a DAO may benefit from continuous improvement and refinement. In the current proposal, the DAO is managed using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
+
 <!-- Successful implementation involves training and education for all stakeholders in the DAO within the organization. For example, education in preparation for implementing a DAO includes an introduction and practice related to game theory, including the prisoners dilemma (use Greenpilled as a resource in planning the curriculum of the education). In finite games, the goal is to win. In an infinite game, the goal is to continue playing. Activities may include playing games that demonstrate cooperation is more rewarding for players than self-interest.
 
 DAO participants must also understand that infinite games may be played as finite games, in which case the game ends just like a finite game, with winners and losers. In a DAO, any player who recognizes that the game may be ending has an obligation to change the rules so that the game may continue. All participants in the DAO need the intention, and need to understand the critical importance of the intention to the survival of the DAO, to keep playing the game, rather than ending the game. -->
