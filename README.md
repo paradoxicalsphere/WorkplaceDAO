@@ -56,13 +56,13 @@ DAOs offer a model specifically for ratifying decisions. In the current proposal
 
 <!-- TO-DO: Discuss with Gema Diaz the potential responsibilities as well as the limits of responsibilities for such a DAO established within an organization or workplace, considering employment law. -->
 
-The integrity of voting in a DAO depends on:
+The integrity of voting in a DAO requires:<sup><a href="#KevinOwocki">2</a></sup>
 
-- Decentralized voting power
+- Decentralization of voting power
 - Accurate identification of DAO members
 - DAO members not colluding
 
-Successful DAOs build cooperation.<sup><a href="#Veritasium">2</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">3</a></sup>
+Successful DAOs build cooperation.<sup><a href="#Veritasium">3</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">4</a></sup>
 
 ## Solution Components<a name="components"></a>
 
@@ -76,7 +76,7 @@ In organizations and workplaces, managing roles and responsibilities while empow
 
 The membership of the DAO is comprised of employees. Depending on business needs, existing organizational processes and required capabilities, a DAO established in an organization or workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams, management or union leadership.
 
-Decision-making power in the form of DAO tokens is allocated based on assessments against key performance indicators (KPIs). KPIs are "quantifiable measures of performance over time for a specific objective [providing] targets for [individuals and] teams [within organizations] to aim for; milestones to gauge progress; and, insights that help people across the organization make better decisions... [KPIs] help every area of the business move forward at the strategic level."<sup><a href="#KPIs">4</a></sup> Assessing employees against certain KPIs potentially encourages all entities to make decisions that are in the broader interest of the organization or workplace, not just themselves.<sup><a href="#SashaIvanov">1</a></sup>
+Decision-making power in the form of DAO tokens is allocated based on assessments against key performance indicators (KPIs). KPIs are "quantifiable measures of performance over time for a specific objective [providing] targets for [individuals and] teams [within organizations] to aim for; milestones to gauge progress; and, insights that help people across the organization make better decisions... [KPIs] help every area of the business move forward at the strategic level."<sup><a href="#KPIs">5</a></sup> Assessing employees against certain KPIs potentially encourages all entities to make decisions that are in the broader interest of the organization or workplace, not just themselves.<sup><a href="#SashaIvanov">1</a></sup>
 
 Customers may benefit from improved organizational responsiveness and engagement that DAOs may facilitate.
 
@@ -90,7 +90,7 @@ When designing a DAO, the solution approach informs the solution scope.
 
 ### Software Applications<a name="software"></a>
 
-Software application designs provide required features and functionality without users needing to understand the details of Web 3.0<sup><a href="#Chainwire">5</a></sup>
+Software application designs provide required features and functionality without users needing to understand the details of Web 3.0<sup><a href="#Chainwire">6</a></sup>
 
 <!-- The goal of the Toyota hackathon on Astar was "creating a support tool allowing anyone to create teams, issue governance tokens and vote without needing to understand the details of Web 3.0." The technology stack needed to implement the current proposal in an existing organization or workplace may have similar features requirements, although used in a more structured manner. -->
 
@@ -122,9 +122,9 @@ DAO participants must also understand that infinite games may be played as finit
 
 ## Conclusion<a name="conclusion"></a>
 
-Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">6</a></sup>
+Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">7</a></sup>
 
-In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">5</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">7</a></sup>
+In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">6</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">8</a></sup>
 
 
 
@@ -159,14 +159,16 @@ Gitcoin
 
 <a name="SashaIvanov"></a><sup>1</sup> [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
 
-<a name="Veritasium"></a><sup>2</sup> [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
+<a name="KevinOwocki"></a><sup>2</sup> [How Quadratic Funding Could Finance Your Dreams](https://www.youtube.com/watch?v=1GRt0j698T4)
 
-<a name="SterzikTrust"></a><sup>3</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
+<a name="Veritasium"></a><sup>3</sup> [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
-<a name="KPIs"></a><sup>4</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
+<a name="SterzikTrust"></a><sup>4</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
 
-<a name="Chainwire"></a><sup>5</sup> [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
+<a name="KPIs"></a><sup>5</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
 
-<a name="SterzikThesis"></a><sup>6</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+<a name="Chainwire"></a><sup>6</sup> [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
 
-<a name="JuliaMartins"></a><sup>7</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+<a name="SterzikThesis"></a><sup>7</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+
+<a name="JuliaMartins"></a><sup>8</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
