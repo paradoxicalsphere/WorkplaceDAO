@@ -32,7 +32,7 @@ Decentralized Autonomous Organizations (DAOs) offer a model for decision making 
 
 DAOs have been heralded as the future of governance, unlocking a more egalitarian approach to decision making. In a DAO, decision-making power typically is associated with one or more tokens created on a blockchain. Tokens represent a form of resource allocation. A blockchain is a digital ledger used to track token resource allocation immutably. Historically, DAOs rely on token-weighted governance, which is plutocratic. In other words, users with the most tokens have the biggest share of voting power. Unfortunately, token-weighted governance models can inadvertently end up handing over control to a few participants holding the majority of tokens, stripping influence away from the many.<sup><a href="#SashaIvanov">1</a></sup>
 
-The current proposal offers a solution approach for implementing a DAO within an existing organization or workplace, leveraging the structures and strengths already established to ensure that the DAO remains incorruptible over time.
+**The current proposal offers a solution approach for implementing a DAO within an existing organization or workplace, leveraging the structures and strengths already established to ensure that the DAO remains incorruptible over time.**
 
 Establishing a DAO may help prepare and position an existing organization or workplace to thrive in a future where Web3 solutions help solve problems of cooperation and collaboration at scales previously not possible. Organizations and workplaces establishing DAOs may be more adaptable, resilient and vibrant in response to changing social and market conditions, becoming more productive and competitive.
 
