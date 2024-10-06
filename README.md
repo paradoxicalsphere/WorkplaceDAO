@@ -58,7 +58,7 @@ DAOs offer a model specifically for ratifying decisions. In the current proposal
 
 The integrity of voting in a DAO depends on:
 
-- A fair and representative distribution of voting power
+- Decentralized voting power
 - Accurate identification of DAO members
 - DAO members not colluding
 
