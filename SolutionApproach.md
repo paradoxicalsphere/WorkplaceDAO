@@ -14,7 +14,6 @@ License: DMCA
 
 ## Contents
 
-[Pitch](#pitch)  
 [Executive Summary](#summary)  
 [Inputs and Outputs](#io)  
 [Assumptions and Constraints](#assumptions)  
@@ -26,8 +25,6 @@ License: DMCA
 [References](#references)  
 
 <!-- What's missing? -->
-
-## Pitch<a name="pitch"></a>
 
 ## Executive Summary<a name="summary"></a>
 
