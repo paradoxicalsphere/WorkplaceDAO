@@ -150,6 +150,10 @@ Kevin Owocki
 *Co-Founder*  
 Gitcoin
 
+Max Lomu  
+*Ecosystem Lead*
+Everclear
+
 <!-- **Kevin Owocki, Founder, Gitcoin | 1-on-1 session -->
 <!-- **Nick Almond, Founder, Factory DAO | implementation -->
 <!-- **Andrea Gallagher, Research Lead, RnDAO | methodologies -->
