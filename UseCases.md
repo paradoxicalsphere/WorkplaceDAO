@@ -7,7 +7,7 @@ The following use cases describe how actors may interact with the [proposed solu
 
 ## Designing a User Interface<a name="ui"></a>
 
-**Primary Actor:** Employee
+**Primary Actor:** Employee  
 **Scope:**  
 **Level:**  
 
@@ -26,7 +26,7 @@ In the scenario, one or more companies are involved in developing and growing a 
 
 Particularly with new Web 3.0 ecosystems, the risks of stakes becoming centralized may be higher. To mitigate the risks, the companies establish a DAO for employees that incentivizes making staking decisions in the interests of the ecosystem as a whole, rather than based on individual self interest. Management allocates tokens to employees for staking based on key performance indicators (KPIs). While employees may make decisions on how to stake allocated tokens within the ecosystem, features in the technology stack supporting the DAO prevent employees from spending allocated tokens or rewards.
 
-**Primary Actor:** Employee
+**Primary Actor:** Employee  
 **Scope:**  
 **Level:**  
 
