@@ -1,1 +1,2 @@
-.
+- [Proposal](./Proposal.md)
+- [Scenarios and Use Cases](./UseCases.md)
