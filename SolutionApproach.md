@@ -151,7 +151,7 @@ Kevin Owocki
 Gitcoin
 
 Max Lomu  
-*Ecosystem Lead*
+*Ecosystem Lead*  
 Everclear
 
 <!-- **Kevin Owocki, Founder, Gitcoin | 1-on-1 session -->
