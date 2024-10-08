@@ -134,39 +134,6 @@ Effective organizations are typically more productive, often provide higher-qual
 
 In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">6</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">8</a></sup>
 
-
-
-
-
-## Many Thanks To<a name="thanks"></a>
-
-[RnDAO](https://www.rndao.io/)
-
-Daniel Ospina  
-*Organization Design Facilitator*  
-RnDAO
-
-Kevin Owocki  
-*Co-Founder*  
-Gitcoin
-
-Max Lomu  
-*Ecosystem Lead*  
-Everclear
-
-<!-- **Kevin Owocki, Founder, Gitcoin | 1-on-1 session -->
-<!-- **Nick Almond, Founder, Factory DAO | implementation -->
-<!-- **Andrea Gallagher, Research Lead, RnDAO | methodologies -->
-<!-- **Jordan Imran, Senior Smart Contract Engineer, Aragon | technology stack -->
-<!-- **Joe Hernandez, Head of Decentralization, Thrive Protocol | product placement, marketing -->
-<!-- **Gema Diaz, Human Resources Consultant | DAO scope -->
-<!-- Dennison Bertram, Founder, Tally | implementation -->
-<!-- Golden Lady, Lawyer | Hackathon participant -->
-<!-- Earth2Travis, Founder, Yeeter | funding -->
-<!-- Ana Maria Y. | funding -->
-
-
-
 ## References<a name="references"></a>
 
 <a name="SashaIvanov"></a><sup>1</sup> [DAOs Will Never Work Without Fixing Governance](https://cointelegraph.com/news/daos-will-never-work-without-fixing-governance)
