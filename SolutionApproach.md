@@ -82,7 +82,7 @@ Decision-making power in the form of DAO tokens is allocated based on assessment
 - Mitigate risks of losing social capital that may be associated with speaking up vocally and passionately
 - Shift social engagement towards increasing cooperation
 
-Customers may benefit from improved organizational responsiveness and engagement that DAOs may generate.
+Customers may benefit from improved organizational responsiveness and engagement that DAOs may enable.
 
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/rndao-hackathon-2024/blob/main/images/DAOs%20Within%20Workplaces.png" alt="" title="">
