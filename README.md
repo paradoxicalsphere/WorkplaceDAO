@@ -2,7 +2,8 @@
 
 ---
 
-**Author:** Paradoxical Sphere <support@paradoxicalsphere.com>  
+**Author:** Oliver Sterzik, [Keyway Counselling](https://keywaycounselling.com)
+**Contact E-mail:** <support@paradoxicalsphere.com>  
 **Created:** 2024-10-01  
 **License:** DMCA  
 
