@@ -1,5 +1,15 @@
 # Establishing an Incorruptible DAO Within Existing Organizations and Workplaces<a name="introduction"></a>
 
+---
+
+Author: Paradoxical Sphere <support@paradoxicalsphere.com>  
+Created: 2024-10-01  
+License: DMCA  
+
+<!-- Create a badge with DMCA.com -->
+
+---
+
 The following documents aim to provide context for requirements analysis and solution identification for a given initiative or long-term planning related to establishing a successful decentralized autonomous organization (DAO) within an existing organization or workplace:
 
 - [Pitch](./Pitch.md)
