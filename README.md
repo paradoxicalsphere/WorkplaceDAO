@@ -2,7 +2,7 @@
 
 ---
 
-**Author:** Oliver Sterzik, [Counselling Therapist](https://keywaycounselling.com)  
+**Author:** [Oliver Sterzik](https://keywaycounselling.com)  
 **Contact E-mail:** <support@paradoxicalsphere.com>  
 **Created:** 2024-10-01  
 **License:** DMCA  
