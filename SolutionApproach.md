@@ -45,13 +45,13 @@ The current proposal is constrained to examining how to implement an incorruptib
 
 <!-- TO-DO: Discuss with Gema Diaz the potential responsibilities as well as the limits of responsibilities for such a DAO established within an organization or workplace, considering employment law. -->
 
+The current proposal assumes that implementing an incorruptible DAO within an existing organization or workplace is a long-term decision aiming to establish the DAO as a permanent—rather than short-term or temporary—internal decision-making structure.
+
 The integrity of voting in a DAO requires:<sup><a href="#KevinOwocki">2</a></sup>
 
 - Decentralization of voting power
 - Accurate identification of DAO members
 - DAO members NOT colluding to vote to each other's advantage
-
-The current proposal assumes that implementing an incorruptible DAO within an existing organization or workplace is a long-term decision aiming to establish the DAO as a permanent—rather than short-term or temporary—internal decision-making structure.
 
 Successful DAOs build cooperation.<sup><a href="#Veritasium">3</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">4</a></sup> While seeming inefficient, the process of a DAO may be important for developing an effective organization or workplace.
 
@@ -63,7 +63,7 @@ Successful DAOs build cooperation.<sup><a href="#Veritasium">3</a></sup> Working
 
 The DAO architecture introduces a new decision-making apparatus that provides opportunities to select and move people into positions of success, power and influence on the basis of demonstrated abilities and merit as a form of motivation.
 
-In organizations and workplaces, managing roles and responsibilities while empowering employees to complete their day-to-day activities and duties successfully is a fundamental existing requirement. In the current proposal, management and union leadership, if applicable, regulate weighted voting and tokenomics, establishing constraints at the management level to maintain a balance of voting power. Existing or new workplace contracts, agreements, guidelines, codes of conduct or practices between the employer and employees also preserve integrity of the DAO by accurately identifying DAO members and setting standards for professional ethical relationships. Management, and union leadership if applicable, are empowered to revise the operating rules of the DAO in circumstances when the DAO begins to fail, noting that building cooperation is a primary objective of a DAO.
+In organizations and workplaces, managing roles and responsibilities while empowering employees to complete their day-to-day activities and duties successfully is a fundamental existing requirement. In the current proposal, management and union leadership, if applicable, regulate weighted voting and tokenomics, **establishing constraints at the management level to maintain a balance of voting power**. Existing or new workplace contracts, agreements, guidelines, codes of conduct or practices between the employer and employees also preserve integrity of the DAO by **accurately identifying DAO members** and **setting standards for professional ethical relationships**. Management, and union leadership if applicable, are empowered to revise the operating rules of the DAO in circumstances when the DAO begins to fail, noting that building cooperation is a primary objective of a DAO.
 
 The membership of the DAO is comprised of employees. Depending on business needs, existing organizational processes and required capabilities, a DAO established in an organization or workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams, management or union leadership. For example, the solution scope may include, but not be limited to, deciding disbursements to selected charities and not-for-profit organizations within the local community that the organization may support.
 
