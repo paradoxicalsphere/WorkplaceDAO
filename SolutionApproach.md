@@ -53,7 +53,7 @@ The integrity of voting in a DAO requires:<sup><a href="#KevinOwocki">2</a></sup
 
 The current proposal assumes that implementing an incorruptible DAO within an existing organization or workplace is a long-term decision aiming to establish the DAO as a permanent—rather than short-term or temporary—internal decision-making structure.
 
-Successful DAOs build cooperation.<sup><a href="#Veritasium">3</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">4</a></sup> While seeming inefficient, the process of a DAO may be important for creating an effective organization or workplace.
+Successful DAOs build cooperation.<sup><a href="#Veritasium">3</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">4</a></sup> While seeming inefficient, the process of a DAO may be important for developing an effective organization or workplace.
 
 ## Solution Components<a name="components"></a>
 
