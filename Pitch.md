@@ -21,13 +21,13 @@
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/pitch-04.png" alt="" title="">
     <br>
-    <i>Figure 4 - What If We Seek Less Disruption and More Collaboration?</i>
+    <i>Figure 4 - What If We Seek Less Disruption and More Collaboration...</i>
 </p>
 
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/pitch-05.png" alt="" title="">
     <br>
-    <i>Figure 5 - ...Simply and Securely Reconciling the Best of Web 2.0 With the Best of Web 3.0</i>
+    <i>Figure 5 - ...Simply and Securely Reconciling the Best of Web 2.0 With the Best of Web 3.0?</i>
 </p>
 
 <!-- In the pitch, discuss token centralization, ID and collusion as risks to the integrity of DAOs, and then explain how the idea mitigates those risks using mechanisms already in place within most existing organizations and workplaces. -->
