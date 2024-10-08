@@ -11,6 +11,12 @@
 
 ---
 
+# About the Author
+
+Oliver is a [Canadian Certified Counsellor](https://www.ccpa-accp.ca/) in private practice near Vancouver, British Columbia. For 15 years, he also contributed to projects large and small in the Web 2.0 IT industry as a Technical Writer and Instructional Designer, with training in Business Analysis. He has a research interest in how people interact within the context of relationship systems as a basis for improving organizational performance, and holds a related [US patent](https://patents.google.com/patent/US11423362B2).
+
+# Introduction
+
 The following documents aim to provide context for requirements analysis and solution identification for a given initiative or long-term planning related to establishing a successful decentralized autonomous organization (DAO) within an existing organization or workplace:
 
 - [Pitch](./Pitch.md)
