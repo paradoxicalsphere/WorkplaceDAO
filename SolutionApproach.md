@@ -147,8 +147,6 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="WikipediaSybil"></a><sup>3</sup> [Sybil Attack](https://en.wikipedia.org/wiki/Sybil_attack)
 
-
-
 <a name="SterzikBlog"></a><sup>4</sup> [Dual Roles and the Therapeutic Relationship](https://keywaycounselling.com/Content/Resources/Blog/2019/04/dualroles.htm)
 
 <a name="Veritasium"></a><sup>5</sup> [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
