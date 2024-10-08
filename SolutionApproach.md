@@ -85,7 +85,7 @@ Decision-making power in the form of DAO tokens is allocated based on assessment
 Customers may benefit from improved organizational responsiveness and engagement that a DAO may enable.
 
 <p align="center">
-    <img src="https://github.com/paradoxicalsphere/rndao-hackathon-2024/blob/main/images/DAOs%20Within%20Workplaces.png" alt="" title="">
+    <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/DAOs%20Within%20Workplaces.png" alt="" title="">
     <br>
     <i>Figure 1 - Stakeholder Map of an Incorruptible DAO Within an Organization or Workplace</i>
 </p>
