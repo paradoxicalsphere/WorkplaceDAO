@@ -125,7 +125,7 @@ DAO participants must also understand that infinite games may be played as finit
 
 ## Feasibility<a name="feasibility"></a>
 
-Unhealthy and unsafe workplace practices may hinder organizational function, interfering with the capabilities of an organization to provide products and services to external stakeholders, as well as create liabilities for workers' compensation insurers. The current solution approach identifies that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may be most suitable for establishing a DAO, as an aspect of a broader strategy for continuous improvement.<sup><a href="#SterzikThesis">9</a></sup>
+Unhealthy and unsafe workplace practices may hinder organizational function; interfere with the capabilities of an organization to provide products and services to external stakeholders; and, create liabilities for workers' compensation insurers. The current solution approach identifies that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may be most suitable for establishing a DAO internally, as an aspect of a broader strategy for continuous improvement.<sup><a href="#SterzikThesis">9</a></sup>
 
 <!-- How to assess whether an organization or workplace is capable of implementing and effectively using the solution? -->
 
