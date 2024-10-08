@@ -1,4 +1,4 @@
-# Establishing an Incorruptible DAO Within Existing Organizations and Workplaces
+# Solution Approach
 
 ## Preamble<a name="preamble"></a>
 
