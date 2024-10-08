@@ -96,7 +96,7 @@ When designing a DAO, the solution approach informs the solution scope.
 
 ### Software Applications<a name="software"></a>
 
-Software application designs provide required features and functionality without users needing to understand the details of Web 3.0<sup><a href="#Chainwire">6</a></sup>
+Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">6</a></sup>
 
 <!-- The goal of the Toyota hackathon on Astar was "creating a support tool allowing anyone to create teams, issue governance tokens and vote without needing to understand the details of Web 3.0." The technology stack needed to implement the current proposal in an existing organization or workplace may have similar features requirements, although used in a more structured manner. -->
 
