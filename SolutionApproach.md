@@ -89,6 +89,8 @@ Software application designs provide required features and functionality without
 
 <!-- The goal of the Toyota hackathon on Astar was "creating a support tool allowing anyone to create teams, issue governance tokens and vote without needing to understand the details of Web 3.0." The technology stack needed to implement the current proposal in an existing organization or workplace may have similar features requirements, although used in a more structured manner. -->
 
+<!-- https://daohaus.club/ Recommended by Disruption Joe -->
+
 <!-- TO-DO: Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum with Jordan Imran (Aragon) -->
 
 ## Methodologies<a name="methodologies"></a>
