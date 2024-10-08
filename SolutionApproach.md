@@ -51,7 +51,17 @@ The integrity of voting in a DAO requires:<sup><a href="#KevinOwocki">2</a></sup
 - Accurate identification of DAO members
 - DAO members NOT colluding to vote to each other's advantage
 
-Successful DAOs build cooperation.<sup><a href="#Veritasium">3</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">4</a></sup> While seeming inefficient, the process of a DAO may be important for developing an effective organization or workplace.
+Successful DAOs build cooperation.<sup><a href="#Veritasium">3</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">4</a></sup>
+
+A dual role, or dual relationship, is one in which there are two (or more) distinct kinds of relationship with the same person or entity. Employee members of a DAO maintain a dual role within the organization or workplace. While dual relationships always introduce greater complexity, they are not inherently exploitative. Indeed, the increased human engagement through a dual relationship is far more likely to be affirming, reassuring and enriching than exploitative. The following practical guidelines are designed to help navigate dual relationships:<sup><a href="#SterzikBlog">5</a></sup>
+
+- Acknowledge the nature of dual roles in a relationship.
+- Be explicit and clear about the role that applies at a given point in time in a relationship.
+- Do not confuse roles in a relationship. Stay within the bounds of the role that applies at a particular point in time in the relationship.
+- Be willing to engage in an ongoing discussion regarding the integrity of a dual relationship.
+- Be willing to make changes in behaviour to preserve the integrity of relationships, including ending the dual nature if integrity of the relationship cannot be preserved otherwise.
+
+While seeming inefficient, the process of a DAO may be important for developing an effective organization or workplace.
 
 ## Solution Components<a name="components"></a>
 
@@ -65,7 +75,7 @@ In organizations and workplaces, managing roles and responsibilities while empow
 
 The membership of the DAO is comprised of employees. Depending on business needs, existing organizational processes and required capabilities, a DAO established in an organization or workplace collectively takes responsibility for some decision making that would otherwise be made by individual employees, smaller teams, management or union leadership. For example, the solution scope may include, but not be limited to, deciding disbursements to selected charities and not-for-profit organizations within the local community that the organization may support.
 
-Decision-making power in the form of DAO tokens is allocated based on assessments against key performance indicators (KPIs). KPIs are "quantifiable measures of performance over time for a specific objective [providing] targets for [individuals and] teams [within organizations] to aim for; milestones to gauge progress; and, insights that help people across the organization make better decisions... [KPIs] help every area of the business move forward at the strategic level."<sup><a href="#KPIs">5</a></sup> Assessing employees against certain KPIs potentially encourages all entities to make decisions that are in the broader interest of the organization or workplace, not just themselves.<sup><a href="#SashaIvanov">1</a></sup>
+Decision-making power in the form of DAO tokens is allocated based on assessments against key performance indicators (KPIs). KPIs are "quantifiable measures of performance over time for a specific objective [providing] targets for [individuals and] teams [within organizations] to aim for; milestones to gauge progress; and, insights that help people across the organization make better decisions... [KPIs] help every area of the business move forward at the strategic level."<sup><a href="#KPIs">6</a></sup> Assessing employees against certain KPIs potentially encourages all entities to make decisions that are in the broader interest of the organization or workplace, not just themselves.<sup><a href="#SashaIvanov">1</a></sup>
 
 Customers may benefit from improved organizational responsiveness and engagement that DAOs may facilitate.
 
@@ -83,7 +93,7 @@ When designing a DAO, the solution approach informs the solution scope.
 
 <!-- What off-the-shelf software may FactoryDAO offer to help implement the proposed solution? IMPORTANT: Does FactoryDAO, and specifically the solutions that may be mentioned, build on Arbitrum? -->
 
-Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">6</a></sup>
+Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">7</a></sup>
 
 <!-- The goal of the Toyota hackathon on Astar was "creating a support tool allowing anyone to create teams, issue governance tokens and vote without needing to understand the details of Web 3.0." The technology stack needed to implement the current proposal in an existing organization or workplace may have similar features requirements, although used in a more structured manner. -->
 
@@ -97,7 +107,7 @@ Software application designs provide required features and functionality without
 
 
 
-The current proposal assumes that implementing an incorruptible DAO within an existing organization or workplace is a long-term decision aiming to establish the DAO as a permanent—rather than short-term or temporary—internal decision-making structure.
+The current proposal assumes that implementing an incorruptible DAO within an existing organization or workplace is a long-term decision aiming to establish the DAO as a permanent collaborative and cooperative—rather than a short-term, finite or temporary—internal decision-making structure.
 
 Over time, the solution scope and operating rules of a DAO may benefit from continuous improvement and refinement. The current proposal recommends managing a DAO using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
 
@@ -125,9 +135,9 @@ DAO participants must also understand that infinite games may be played as finit
 
 ## Conclusion<a name="conclusion"></a>
 
-Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">7</a></sup>
+Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">8</a></sup>
 
-In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">6</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">8</a></sup>
+In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">7</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">9</a></sup>
 
 ## References<a name="references"></a>
 
@@ -139,10 +149,13 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="SterzikTrust"></a><sup>4</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
 
-<a name="KPIs"></a><sup>5</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
+<a name="SterzikBlog"></a><sup>5</sup> [Dual Roles and the Therapeutic Relationship](https://keywaycounselling.com/Content/Resources/Blog/2019/04/dualroles.htm)
 
-<a name="Chainwire"></a><sup>6</sup> [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
+<a name="KPIs"></a><sup>6</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
 
-<a name="SterzikThesis"></a><sup>7</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+<a name="Chainwire"></a><sup>7</sup> [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
 
-<a name="JuliaMartins"></a><sup>8</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+<a name="SterzikThesis"></a><sup>8</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+
+<a name="JuliaMartins"></a><sup>9</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+
