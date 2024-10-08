@@ -25,11 +25,9 @@ The following documents aim to provide context for requirements analysis and sol
 
 # Many Thanks To<a name="thanks"></a>
 
-[RnDAO](https://www.rndao.io/)
-
 Daniel Ospina  
 *Organisation Design Lead*  
-RnDAO
+[RnDAO](https://www.rndao.io/)
 
 Kevin Owocki  
 *Co-Founder*  
