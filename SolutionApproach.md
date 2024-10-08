@@ -77,7 +77,7 @@ The membership of the DAO is comprised of employees. Depending on business needs
 
 Decision-making power in the form of DAO tokens is allocated based on assessments against key performance indicators (KPIs). KPIs are "quantifiable measures of performance over time for a specific objective [providing] targets for [individuals and] teams [within organizations] to aim for; milestones to gauge progress; and, insights that help people across the organization make better decisions... [KPIs] help every area of the business move forward at the strategic level."<sup><a href="#KPIs">7</a></sup> Assessing employees against certain KPIs may help:
 
-- Encourages all entities to make decisions that are in the broader interest of the organization or workplace, not just themselves.<sup><a href="#SashaIvanov">1</a></sup> 
+- Encourage all entities to make decisions that are in the broader interest of the organization or workplace, not just themselves.<sup><a href="#SashaIvanov">1</a></sup> 
 - Amplify quieter voices
 - Mitigate risks of losing social capital that may be associated with speaking up vocally and passionately
 - Shift social engagement towards increasing cooperation
