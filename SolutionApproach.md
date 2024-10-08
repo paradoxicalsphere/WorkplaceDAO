@@ -6,7 +6,7 @@
 [Inputs and Outputs](#io)  
 [Assumptions and Constraints](#assumptions)  
 [Solution Components](#components)  
-[Methodologies](#methodologies)  
+[Methodology and Lifecycle](#methodology)  
 [Feasibility](#feasibility)  
 [Conclusion](#conclusion)  
 [References](#references)  
@@ -44,8 +44,6 @@ DAOs offer a model specifically for ratifying decisions. In the current proposal
 The current proposal is constrained to examining how to implement an incorruptible DAO using a token-weighted governance model within existing organizations or workplaces. Establishing different governance models—such as [quadratic voting](https://www.youtube.com/watch?v=1GRt0j698T4)—while also promising and worthy of further investigation, is outside the scope of the current proposal.
 
 <!-- TO-DO: Discuss with Gema Diaz the potential responsibilities as well as the limits of responsibilities for such a DAO established within an organization or workplace, considering employment law. -->
-
-The current proposal assumes that implementing an incorruptible DAO within an existing organization or workplace is a long-term decision aiming to establish the DAO as a permanent—rather than short-term or temporary—internal decision-making structure.
 
 The integrity of voting in a DAO requires:<sup><a href="#KevinOwocki">2</a></sup>
 
@@ -93,9 +91,13 @@ Software application designs provide required features and functionality without
 
 <!-- TO-DO: Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum with Jordan Imran (Aragon) -->
 
-## Methodologies<a name="methodologies"></a>
+## Methodology and Lifecycle<a name="methodology"></a>
 
 <!-- How--by what means-- will the solution be delivered? -->
+
+
+
+The current proposal assumes that implementing an incorruptible DAO within an existing organization or workplace is a long-term decision aiming to establish the DAO as a permanent—rather than short-term or temporary—internal decision-making structure.
 
 Over time, the solution scope and operating rules of a DAO may benefit from continuous improvement and refinement. The current proposal recommends managing a DAO using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
 
