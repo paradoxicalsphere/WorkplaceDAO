@@ -83,7 +83,7 @@ When designing a DAO, the solution approach informs the solution scope.
 
 ### Software Applications<a name="software"></a>
 
-<!-- What off-the-shelf software may FactoryDAO offer to help implement the proposed solution? -->
+<!-- What off-the-shelf software may FactoryDAO offer to help implement the proposed solution? IMPORTANT: Does FactoryDAO, and specifically the solutions that may be mentioned, build on Arbitrum? -->
 
 Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">6</a></sup>
 
