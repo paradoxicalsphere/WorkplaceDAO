@@ -51,9 +51,7 @@ The integrity of voting in a DAO requires:<sup><a href="#KevinOwocki">2</a></sup
 - Accurate identification of DAO members
 - DAO members NOT colluding to vote to each other's advantage
 
-Successful DAOs build cooperation.<sup><a href="#Veritasium">3</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">4</a></sup>
-
-A dual role, or dual relationship, is one in which there are two (or more) distinct kinds of relationship with the same person or entity. Employee members of a DAO maintain a dual role within the organization or workplace. While dual relationships always introduce greater complexity, they are not inherently exploitative. Indeed, the increased human engagement through a dual relationship is far more likely to be affirming, reassuring and enriching than exploitative. The following practical guidelines are designed to help navigate dual relationships:<sup><a href="#SterzikBlog">5</a></sup>
+A dual role, or dual relationship, is one in which there are two (or more) distinct kinds of relationship with the same person or entity. Employee members of a DAO maintain a dual role within the organization or workplace. While dual relationships always introduce greater complexity, they are not inherently exploitative. Indeed, the increased human engagement through a dual relationship is far more likely to be affirming, reassuring and enriching than exploitative. The following practical guidelines are designed to help navigate dual relationships:<sup><a href="#SterzikBlog">3</a></sup>
 
 - Acknowledge the nature of dual roles in a relationship.
 - Be explicit and clear about the role that applies at a given point in time in a relationship.
@@ -61,7 +59,7 @@ A dual role, or dual relationship, is one in which there are two (or more) disti
 - Be willing to engage in an ongoing discussion regarding the integrity of a dual relationship.
 - Be willing to make changes in behaviour to preserve the integrity of relationships, including ending the dual nature if integrity of the relationship cannot be preserved otherwise.
 
-While seeming inefficient, the process of a DAO may be important for developing an effective organization or workplace.
+Successful DAOs build cooperation.<sup><a href="#Veritasium">4</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">5</a></sup> While seeming inefficient, the process of a DAO may be important for developing an effective organization or workplace.
 
 ## Solution Components<a name="components"></a>
 
@@ -145,11 +143,13 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="KevinOwocki"></a><sup>2</sup> [How Quadratic Funding Could Finance Your Dreams](https://www.youtube.com/watch?v=1GRt0j698T4)
 
-<a name="Veritasium"></a><sup>3</sup> [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
+<a name="SterzikBlog"></a><sup>4</sup> [Dual Roles and the Therapeutic Relationship](https://keywaycounselling.com/Content/Resources/Blog/2019/04/dualroles.htm)
 
-<a name="SterzikTrust"></a><sup>4</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
+<a name="Veritasium"></a><sup>4</sup> [What Game Theory Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM)
 
-<a name="SterzikBlog"></a><sup>5</sup> [Dual Roles and the Therapeutic Relationship](https://keywaycounselling.com/Content/Resources/Blog/2019/04/dualroles.htm)
+<a name="SterzikTrust"></a><sup>5</sup> [The Nature of Trust](https://keywaycounselling.com/Content/Resources/PDFs/nature_of_trust.pdf)
+
+
 
 <a name="KPIs"></a><sup>6</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
 
