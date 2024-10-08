@@ -1,17 +1,5 @@
 # Solution Approach
 
-## Preamble<a name="preamble"></a>
-
----
-
-Author: Paradoxical Sphere <support@paradoxicalsphere.com>  
-Created: 2024-10-01  
-License: DMCA  
-
-<!-- Create a badge with DMCA.com -->
-
----
-
 ## Contents
 
 [Executive Summary](#summary)  
