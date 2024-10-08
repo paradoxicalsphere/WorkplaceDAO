@@ -1,4 +1,4 @@
-# RnDAO Hackathon 2024
+# Establishing an Incorruptible DAO Within Existing Organizations and Workplaces
 
 - [Pitch](./Pitch.md)
 - [Establishing an Incorruptible DAO Within Existing Organizations and Workplaces](./SolutionApproach.md)
