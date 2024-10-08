@@ -131,7 +131,7 @@ Unhealthy and unsafe workplace practices may:
 - Interfere with the capabilities of an organization to provide products and services to external stakeholders, and
 - Create liabilities for workers' compensation insurers
 
-The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may be most capable in establishing a DAO successfully, as an aspect of a broader strategy for continuous improvement.<sup><a href="#SterzikThesis">9</a></sup>
+The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.<sup><a href="#SterzikThesis">9</a></sup>
 
 <!-- How to assess whether an organization or workplace is capable of implementing and effectively using the solution? -->
 
