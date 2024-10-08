@@ -1,31 +1,31 @@
 # Pitch
 
 <p align="center">
-    <img src="https://github.com/paradoxicalsphere/rndao-hackathon-2024/blob/main/images/DAOs%20Within%20Workplaces.png" alt="" title="">
+    <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/pitch-01.png" alt="" title="">
     <br>
     <i>Figure 1 - Stakeholder Map of an Incorruptible DAO Within an Organization or Workplace</i>
 </p>
 
 <p align="center">
-    <img src="https://github.com/paradoxicalsphere/rndao-hackathon-2024/blob/main/images/DAOs%20Within%20Workplaces.png" alt="" title="">
+    <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/pitch-02.png" alt="" title="">
     <br>
     <i>Figure 2 - Stakeholder Map of an Incorruptible DAO Within an Organization or Workplace</i>
 </p>
 
 <p align="center">
-    <img src="https://github.com/paradoxicalsphere/rndao-hackathon-2024/blob/main/images/DAOs%20Within%20Workplaces.png" alt="" title="">
+    <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/pitch-03.png" alt="" title="">
     <br>
     <i>Figure 3 - Stakeholder Map of an Incorruptible DAO Within an Organization or Workplace</i>
 </p>
 
 <p align="center">
-    <img src="https://github.com/paradoxicalsphere/rndao-hackathon-2024/blob/main/images/DAOs%20Within%20Workplaces.png" alt="" title="">
+    <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/pitch-04.png" alt="" title="">
     <br>
     <i>Figure 4 - Stakeholder Map of an Incorruptible DAO Within an Organization or Workplace</i>
 </p>
 
 <p align="center">
-    <img src="https://github.com/paradoxicalsphere/rndao-hackathon-2024/blob/main/images/DAOs%20Within%20Workplaces.png" alt="" title="">
+    <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/pitch-05.png" alt="" title="">
     <br>
     <i>Figure 5 - Stakeholder Map of an Incorruptible DAO Within an Organization or Workplace</i>
 </p>
