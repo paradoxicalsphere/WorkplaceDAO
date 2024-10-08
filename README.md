@@ -13,7 +13,7 @@
 
 # About the Author
 
-Oliver is a [Canadian Certified Counsellor](https://www.ccpa-accp.ca/) in private practice near Vancouver, British Columbia. Also, for 15 years he contributed to projects large and small in the Web 2.0 IT industry as a Technical Writer and Instructional Designer, with training in Business Analysis. He has a research interest in how people interact within the context of relationship systems as a basis for improving organizational performance, and holds a related [US patent](https://patents.google.com/patent/US11423362B2).
+Oliver works as a [Canadian Certified Counsellor](https://www.ccpa-accp.ca/) in private practice near Vancouver, British Columbia. Also, for 15 years he contributed to projects large and small in the Web 2.0 IT industry as a Technical Writer and Instructional Designer, with training in Business Analysis. He has a research interest in how people interact within the context of relationship systems as a basis for improving organizational performance, and holds a related [US patent](https://patents.google.com/patent/US11423362B2).
 
 # Introduction
 
