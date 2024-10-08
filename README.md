@@ -32,6 +32,10 @@ Max Lomu
 *Ecosystem Lead*  
 Everclear
 
+Disruption Joe  
+*Delegate*  
+Arbitrum DAO
+
 <!-- **Kevin Owocki, Founder, Gitcoin | 1-on-1 session -->
 <!-- **Nick Almond, Founder, Factory DAO | implementation -->
 <!-- **Andrea Gallagher, Research Lead, RnDAO | methodologies -->
