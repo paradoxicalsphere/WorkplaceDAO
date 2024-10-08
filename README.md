@@ -2,9 +2,9 @@
 
 ---
 
-Author: Paradoxical Sphere <support@paradoxicalsphere.com>  
-Created: 2024-10-01  
-License: DMCA  
+**Author:** Paradoxical Sphere <support@paradoxicalsphere.com>  
+**Created:** 2024-10-01  
+**License:** DMCA  
 
 <!-- Create a badge with DMCA.com -->
 
