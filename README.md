@@ -28,7 +28,7 @@ The following documents aim to provide context for requirements analysis and sol
 [RnDAO](https://www.rndao.io/)
 
 Daniel Ospina  
-*Organization Design Facilitator*  
+*Organization Design Lead*  
 RnDAO
 
 Kevin Owocki  
