@@ -83,6 +83,8 @@ When designing a DAO, the solution approach informs the solution scope.
 
 ### Software Applications<a name="software"></a>
 
+<!-- What off-the-shelf software may FactoryDAO offer to help implement the proposed solution? -->
+
 Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">6</a></sup>
 
 <!-- The goal of the Toyota hackathon on Astar was "creating a support tool allowing anyone to create teams, issue governance tokens and vote without needing to understand the details of Web 3.0." The technology stack needed to implement the current proposal in an existing organization or workplace may have similar features requirements, although used in a more structured manner. -->
@@ -90,6 +92,8 @@ Software application designs provide required features and functionality without
 <!-- TO-DO: Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum with Jordan Imran (Aragon) -->
 
 ## Methodologies<a name="methodologies"></a>
+
+<!-- How--by what means-- will the solution be delivered? -->
 
 Over time, the solution scope and operating rules of a DAO may benefit from continuous improvement and refinement. The current proposal recommends managing a DAO using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
 
@@ -107,7 +111,7 @@ DAO participants must also understand that infinite games may be played as finit
 
 ## Feasibility<a name="feasibility"></a>
 
-
+<!-- How to assess whether an organization or workplace is capable of implementing and effectively using the solution? -->
 
 <!-- Discuss HR and employment standards that may apply to scope of DAO responsibilities -->
 
