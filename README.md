@@ -23,7 +23,7 @@ The following documents aim to provide context for requirements analysis and sol
 - [Solution Approach](./SolutionApproach.md)
 - [Scenarios and Use Cases](./UseCases.md)
 
-# Thanks To<a name="thanks"></a>
+# Thanks<a name="thanks"></a>
 
 Daniel Ospina  
 *Organisation Design Lead*  
