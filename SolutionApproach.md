@@ -21,7 +21,6 @@ License: DMCA
 [Methodologies](#methodologies)  
 [Feasibility](#feasibility)  
 [Conclusion](#conclusion)  
-[Many Thanks To](#thanks)  
 [References](#references)  
 
 <!-- What's missing? -->
