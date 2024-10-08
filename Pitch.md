@@ -21,7 +21,7 @@
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/pitch-04.png" alt="" title="">
     <br>
-    <i>Figure 4 - What If We Seek Less Disruption and More Collaboration...</i>
+    <i>Figure 4 - What If We Now Seek Less Disruption and More Collaboration...</i>
 </p>
 
 <p align="center">
