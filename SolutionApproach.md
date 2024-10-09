@@ -82,7 +82,7 @@ Decision-making power in the form of DAO tokens is allocated based on assessment
 - Mitigate risks of losing social capital that may be associated with speaking up vocally and passionately
 - Shift social engagement towards increasing cooperation
 
-For example, the solution scope may include, but not be limited to, deciding disbursements to selected charities and not-for-profit organizations within the local community that the organization may support. Decision-making power in the form of DAO tokens may also relate directly to forms of compensation, such as or similar to stock options for employees.
+For example, the solution scope may include, but not be limited to, deciding disbursements to selected charities and not-for-profit organizations within the local community that the organization may support. Decision-making power in the form of DAO tokens may also relate directly to forms of compensation, such as or similar to stock options.
 
 Customers may benefit from improved organizational responsiveness and engagement that a DAO may enable.
 
