@@ -69,6 +69,8 @@ While seeming inefficient, the process of a DAO may be important for developing 
 
 ### New Processes<a name="components"></a>
 
+When designing a DAO, the solution approach informs the solution scope.
+
 The DAO architecture introduces a new decision-making apparatus that provides opportunities to select and move people into positions of success, power and influence on the basis of demonstrated abilities and merit as a form of motivation.
 
 In organizations and workplaces, managing roles and responsibilities while empowering employees to complete their day-to-day activities and duties successfully is a fundamental existing requirement. **In the current proposal, management—along with union leadership if applicable—regulates weighted voting and tokenomics, establishing constraints to maintain decentralization of voting power within the DAO. Existing or new workplace contracts, agreements, guidelines, codes of conduct or practices between the employer and employees preserve the integrity of DAO voting by accurately identifying DAO members and setting standards for professional ethical relationships.** Management, and union leadership if applicable, are empowered to revise the operating rules of the DAO in circumstances when the DAO begins to fail, noting that building cooperation is a primary objective of a DAO.
@@ -84,7 +86,7 @@ Decision-making power in the form of DAO tokens is allocated based on assessment
 
 DAO tokens may relate directly to forms of compensation, such as or similar to stock options.
 
-For example, the solution scope may include, but not be limited to, deciding disbursements to selected charities and not-for-profit organizations within the local community that the organization may support. When designing a DAO, the solution approach informs the solution scope.
+For example, the solution scope may include, but not be limited to, deciding disbursements to selected charities and not-for-profit organizations within the local community that the organization may support.
 
 Customers may benefit from improved organizational responsiveness and engagement that a DAO may enable.
 
