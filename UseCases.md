@@ -25,7 +25,7 @@ The following use cases describe how actors may interact with the [proposed solu
 
 ## Tapping Global Human Capital<a name="humancapital"></a>
 
-**Primary Actor:** Employee  
+**Primary Actor:** Pseudonymous Worker  
 **Scope:**  
 **Level:**  
 
