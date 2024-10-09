@@ -45,6 +45,10 @@ Disruption Joe
 *Delegate*  
 Arbitrum DAO
 
+Dr Nick  
+*Founder*  
+Factory DAO
+
 <!-- **Kevin Owocki, Founder, Gitcoin | 1-on-1 session -->
 <!-- **Nick Almond, Founder, Factory DAO | implementation -->
 <!-- **Andrea Gallagher, Research Lead, RnDAO | methodologies -->
