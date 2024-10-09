@@ -3,6 +3,7 @@
 The following use cases describe how actors may interact with the [proposed solution](./SolutionApproach.md) to respond to events and accomplish business goals:
 
 - [Designing a User Interface](#ui)
+- [Tapping Global Human Capital](#humancapital)
 - [Helping Incentivize a Staking Community](#staking)
 
 ## Designing a User Interface<a name="ui"></a>
@@ -16,6 +17,21 @@ The following use cases describe how actors may interact with the [proposed solu
 <!-- https://github.com/ok-Alice/toyota-astar-hackathon -->
 
 
+
+### Extensions
+
+
+
+
+## Tapping Global Human Capital<a name="humancapital"></a>
+
+**Primary Actor:** Employee  
+**Scope:**  
+**Level:**  
+
+### Main Success Scenario
+
+<!-- Document the bounty work / gig worker scenario that Nick Almond described in response to my question(s) in his mentoring session -->
 
 ### Extensions
 
