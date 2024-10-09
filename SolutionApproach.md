@@ -100,6 +100,8 @@ Customers may benefit from improved organizational responsiveness and engagement
 
 <!-- What off-the-shelf software may FactoryDAO offer to help implement the proposed solution? IMPORTANT: Does FactoryDAO, and specifically the solutions that may be mentioned, build on Arbitrum? -->
 
+<!-- Discuss privacy and security... namely, employee decisions should not be subject to scrutiny by the employer in the background. Similar privacy legislations that apply to e-mails that an employee may draft using a company computer should apply. Cite details from my CityU thesis. -->
+
 Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">8</a></sup>
 
 <!-- The goal of the Toyota hackathon on Astar was "creating a support tool allowing anyone to create teams, issue governance tokens and vote without needing to understand the details of Web 3.0." The technology stack needed to implement the current proposal in an existing organization or workplace may have similar features requirements, although used in a more structured manner. -->
