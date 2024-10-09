@@ -45,7 +45,7 @@ Disruption Joe
 *Delegate*  
 Arbitrum DAO
 
-Dr Nick  
+Nick Almond  
 *Founder*  
 Factory DAO
 
