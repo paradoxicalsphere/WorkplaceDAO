@@ -8,6 +8,8 @@ The following use cases describe how actors may interact with the [proposed solu
 
 ## Designing a User Interface<a name="ui"></a>
 
+A multinational automotive manufacturer 
+
 **Primary Actor:** Employee  
 **Scope:**  
 **Level:**  
