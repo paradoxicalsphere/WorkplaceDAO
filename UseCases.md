@@ -3,7 +3,7 @@
 The following use cases describe how actors may interact with the [proposed solution](./SolutionApproach.md) to respond to events and accomplish business goals:
 
 - [Designing a User Interface](#ui)
-- [Tapping Global Human Capital](#humancapital)
+- [Accessing Global Human Capital](#humancapital)
 - [Helping Incentivize a Staking Community](#staking)
 
 ## Designing a User Interface<a name="ui"></a>
@@ -23,7 +23,7 @@ The following use cases describe how actors may interact with the [proposed solu
 
 
 
-## Tapping Global Human Capital<a name="humancapital"></a>
+## Accessing Global Human Capital<a name="humancapital"></a>
 
 **Primary Actor:** Pseudonymous Worker  
 **Scope:**  
