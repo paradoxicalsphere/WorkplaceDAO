@@ -21,11 +21,15 @@ Oliver has a research interest in how people interact within the context of rela
 
 # Introduction
 
+So far, most Web 3.0 collaboration technology implementations seem to occur outside more traditional and mature industries and markets.
+
 The following documents aim to provide context for requirements analysis and solution identification for a given initiative or long-term planning related to establishing a successful decentralized autonomous organization (DAO) within an existing organization or workplace:
 
 - [Pitch](./Pitch.md)
 - [Solution Approach](./SolutionApproach.md)
 - [Scenarios and Use Cases](./UseCases.md)
+
+Helping Web 2.0 businesses realize potential of implementing Web 3.0 collaboration technologies to improve the effectiveness of organizations and workplaces may play a role in successfully increasing adoption.
 
 # Thanks<a name="thanks"></a>
 
