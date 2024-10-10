@@ -21,7 +21,7 @@ Oliver has a research interest in how people interact within the context of rela
 
 # Introduction
 
-So far, most Web 3.0 collaboration technology implementations seem to occur outside more traditional and mature industries and markets.
+To date, most Web 3.0 collaboration technology implementations seem to occur outside more traditional and mature industries and markets.
 
 The following documents aim to provide context for requirements analysis and solution identification for a given initiative or long-term planning related to establishing a successful decentralized autonomous organization (DAO) within an existing organization or workplace:
 
