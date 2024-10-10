@@ -10,13 +10,24 @@ The following use cases describe how actors may interact with the [proposed solu
 
 A multinational automotive manufacturer 
 
+
+
+
+
+
+<sup><a href="#ToyotaHackathon">1</a></sup>
+
+
+
+
+
 **Primary Actor:** Employee  
 **Scope:**  
 **Level:**  
 
 ### Main Success Scenario
 
-<!-- https://github.com/ok-Alice/toyota-astar-hackathon -->
+
 
 
 
@@ -27,7 +38,7 @@ A multinational automotive manufacturer
 
 ## Accessing Global Human Capital<a name="humancapital"></a>
 
-A business having a traditional organization structure posts bounty jobs on the corporate Web site. Workers, who may be pseudonymous and work remotely, are members of a DAO within the organization. When applying for bounty jobs, applicants may be short listed partially based on a blockchain-based reputation system using 360-degree reviews of past work experiences. Work and feedback are submitted using the blockchain. Payments for successfully completed jobs may be processed in fiat or cryptocurrencies. A history recording work experiences and payments for each worker, as needed to meet tax and regulatory requirements, is stored on the blockchain.
+A business having a traditional organization structure posts bounty jobs on the corporate Web site. Workers, who may be pseudonymous and work remotely, are members of a DAO within the organization. When applying for bounty jobs, applicants may be short listed partially based on a blockchain-based reputation system using 360-degree reviews of past work experiences. Work and feedback are submitted using the blockchain. Payments for successfully completed jobs may be processed in fiat or cryptocurrencies. A history recording work experiences and payments for each worker, as needed to meet tax and regulatory requirements, is stored on the blockchain using non-fungible tokens (NFTs).
 
 **Primary Actor:** Pseudonymous Worker  
 **Scope:**  
@@ -57,4 +68,10 @@ Particularly within new Web 3.0 ecosystems, the risks of stakes becoming central
 
 
 ### Extensions
+
+
+
+# References<a name="references"></a>
+
+<a name="ToyotaHackathon"></a><sup>1</sup> [Toyota Hackathon Submission](https://github.com/ok-Alice/toyota-astar-hackathon)
 
