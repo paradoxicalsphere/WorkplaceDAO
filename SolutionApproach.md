@@ -13,6 +13,8 @@
 
 <!-- What's missing? -->
 
+<!-- IMPORTANT: Prior to submitting the repo, review the eligibility requirements in the #rules-and-guidelines Discord server for the hackathon to ensure that the proposal is eligible -->
+
 ## Executive Summary<a name="summary"></a>
 
 Decentralized Autonomous Organizations (DAOs) offer a model for decision making that distributes voting rights across all members. For example, whereas members in a labor union elect a centralized leadership, there is usually no central authority in a DAO—only the will of the collective. Within an existing organization or workplace, DAO members may assume a share of duties and responsibilities usually associated with management levels. The relationship between DAOs and labor unions is complementary.
