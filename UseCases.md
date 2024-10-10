@@ -25,7 +25,7 @@ The following use cases describe how actors may interact with the [proposed solu
 
 ## Accessing Global Human Capital<a name="humancapital"></a>
 
-A business having a traditional organization structure posts bounty jobs on the corporate Web site. Workers, who may be pseudonymous, are members of a DAO within the organization. When applying for bounty jobs, applicants may be short listed partially based on a blockchain-based reputation system using 360-degree reviews of past work experiences. A history of work experiences and payments, as requird to meet tax and regulatory requirements, is also stored on the blockchain.
+A business having a traditional organization structure posts bounty jobs on the corporate Web site. Workers, who may be pseudonymous, are members of a DAO within the organization. When applying for bounty jobs, applicants may be short listed partially based on a blockchain-based reputation system using 360-degree reviews of past work experiences. A history of work experiences and payments, as required to meet tax and regulatory requirements, is also stored on the blockchain.
 
 **Primary Actor:** Pseudonymous Worker  
 **Scope:**  
