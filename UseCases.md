@@ -8,18 +8,7 @@ The following use cases describe how actors may interact with the [proposed solu
 
 ## Designing a User Interface<a name="ui"></a>
 
-A multinational automotive manufacturer 
-
-
-
-
-
-
-<sup><a href="#ToyotaHackathon">1</a></sup>
-
-
-
-
+A DAO comprised of employees with a multinational automotive manufacturer decides how to redesign the user interface of a car.<sup><a href="#ToyotaHackathon">1</a></sup>
 
 **Primary Actor:** Employee  
 **Scope:**  
