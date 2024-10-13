@@ -44,17 +44,20 @@ A business having a traditional organization structure posts bounty jobs on the 
 
 ## Helping Incentivize a Staking Community<a name="staking"></a>
 
-One or more companies using more typically traditional hierarchical reporting structures are involved in developing and growing a Web 3.0 ecosystem. In the ecosystem, community members comprised of the general public may purchase and stake blockchain tokens to help secure the network. Stakeholders receive rewards.
+One or more companies using more typically traditional hierarchical reporting structures are involved in developing and growing a Web 3.0 ecosystem. In the ecosystem, community members comprised of the general public may purchase blockchain tokens, and then stake tokens in pools to help secure the network and receive rewards.
 
 Particularly within newly created Web 3.0 ecosystems, the risks of stakes becoming centralized may be higher. To mitigate the risks, the companies establish a DAO for employees that incentivizes making staking decisions in the interests of the ecosystem as a whole, rather than based on individual self interest. Management allocates tokens to employees for staking based on key performance indicators (KPIs). While employees may make decisions on how to stake allocated tokens within the ecosystem, features in the technology stack prevent employees from spending allocated tokens and rewards.
 
 **Primary Actor:** Employee  
-**Scope:**  
-**Level:**  
+**Scope:**  Web 3.0 Staking Community
+**Level:**  Summary
 
 ### Main Success Scenario
 
-
+1. Following a successful annual performance review, the employee receives an allocation of tokens only for the purposes of staking to existing pools within the ecosystem.
+2. As a day-to-day responsibility, the employee maintains some awareness of behaviour in staking community by engaging through a variety of news channels, social media and word of mouth.
+3. The employee recognizes self-interested behaviour that begins to centralize power in the staking community too much. For example, a single stake pool may inadvertently gain too much voting power, or a single entity may be indentified as operating multiple stake pools.
+4. The employee acts in the interests of the ecosystem as a whole to balance the identified self-interested behaviour. For example, the employee may respond by staking tokens to one or more other, smaller pools. If the employee already stakes to a pool identified as operating in an overly self-interested manner, then the employee may remove stake from the pool. The employee may also act in coordination and collaboration with other employees, as may be needed to maintain decentralization within the ecosystem.
 
 ### Extensions
 
