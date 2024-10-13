@@ -12,7 +12,7 @@ A DAO comprised of employees with a multinational automotive manufacturer decide
 
 **Primary Actor:** Manager  
 **Scope:**  
-**Level:**  
+**Level:** Summary
 
 ### Main Success Scenario
 
