@@ -42,7 +42,7 @@ A business having a traditional organization structure posts bounty jobs on the 
 5. In the process of completing work, the pseudonymous worker exchanges communications with the employer, including status reports and links to work drafts, using blockchain-based applications.
 6. For successfully completed work, the worker submits invoices and payments are processed using the blockchain.
 7. When the bounty job is complete, the worker reviews the work experience and receives a review from the company. Reviews are stored using NFTs.
-8. The worker receives tax forms related to the work that the company prepares according to regulations, also using NFTs.
+8. The worker receives tax forms related to the completed work that the company prepares according to regulations, also using NFTs.
 
 <!-- Document the bounty work / gig worker scenario that Nick Almond described in response to my question(s) in his mentoring session -->
 
