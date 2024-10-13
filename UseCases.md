@@ -55,7 +55,7 @@ Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becom
 ### Main Success Scenario
 
 1. Following a successful annual performance review, the employee is allocated a number of tokens only for the purposes of staking to existing pools within the ecosystem.
-2. As one day-to-day responsibility, the employee maintains some awareness of behaviour in the staking community by engaging through a variety of news channels, social media and word of mouth.
+2. As one of numerous day-to-day responsibilities, the employee maintains some awareness of behaviour in the staking community by engaging through a variety of news channels, social media and word of mouth.
 3. The employee recognizes self-interested behaviour in the staking community that begins to centralize power too much. For example, a single stake pool may inadvertently gain too much voting power, or a single entity may be indentified as operating multiple stake pools.
 4. While the employee cannot punish self-interested behaviour that may occur in the staking community, the employee acts in the interests of the ecosystem as a whole to balance self-interested behaviour. For example, the employee may respond by staking tokens to one or more other, smaller pools. If the employee already stakes tokens to a pool identified as consolidating too much power, then the employee may remove stake from the pool. The employee may also act in coordination and collaboration with other employees, as may be needed to maintain healthy decentralization within the ecosystem.
 
