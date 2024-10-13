@@ -31,7 +31,7 @@ The following documents aim to provide context for requirements analysis and sol
 - [Solution Approach](./SolutionApproach.md)
 - [Scenarios and Use Cases](./UseCases.md)
 
-Helping Web 2.0 businesses realize potential of implementing Web 3.0 collaboration technologies to improve the effectiveness of organizations and workplaces may play a role in successfully increasing adoption.
+Helping Web 2.0 businesses realize potential of implementing Web 3.0 collaboration technologies to improve the effectiveness of organizations and workplaces may play a role in successfully increasing Web 3.0 adoption.
 
 # Many Thanks<a name="thanks"></a>
 
