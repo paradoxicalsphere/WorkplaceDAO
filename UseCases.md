@@ -29,13 +29,17 @@ A DAO comprised of employees with a multinational automotive manufacturer decide
 
 A business having a traditional organization structure posts bounty jobs on the corporate Web site. Workers, who may be pseudonymous and work remotely, are members of a DAO within the organization. When applying for bounty jobs, applicants may be short listed partially based on a blockchain-based reputation system using 360-degree reviews of past work experiences. Work and feedback are submitted using the blockchain. Payments for successfully completed jobs may be processed in fiat or cryptocurrencies. A history recording work experiences, reviews and payments for each worker, as needed to meet tax and regulatory requirements, is stored on the blockchain using non-fungible tokens (NFTs).
 
-**Primary Actor:** Pseudonymous Worker  
+**Primary Actor:** Remote Pseudonymous Worker  
 **Scope:**  Bounty Work Procurement System  
 **Level:** Summary
 
 ### Main Success Scenario
 
-1. 
+1. A worker located anywhere in the world identifies a bounty job of interest on the company's Web site.
+2. The worker applies for the job pseudonymously using a blockchain-based Web application.
+3. According to applicable regulations and standards, the worker is hired.
+4. As a member of the DAO, the pseudonymous worker submits a digitally-signed contract and any required supporting documentation to the employer as non-fungible tokens (NFTs).
+5. 
 
 <!-- Document the bounty work / gig worker scenario that Nick Almond described in response to my question(s) in his mentoring session -->
 
