@@ -27,7 +27,7 @@ A DAO comprised of employees with a multinational automotive manufacturer decide
 
 ## Accessing Global Human Capital<a name="humancapital"></a>
 
-A business having a traditional organization structure posts bounty jobs on the corporate Web site. Workers, who may be pseudonymous and work remotely, are members of a DAO within the organization. When applying for bounty jobs, applicants may be short listed partially based on a blockchain-based reputation system using 360-degree reviews of past work experiences. Work and feedback are submitted using the blockchain. Payments for successfully completed jobs may be processed in fiat or cryptocurrencies. A history recording work experiences, reviews and payments for each worker, as needed to meet tax and regulatory requirements, is stored on the blockchain using non-fungible tokens (NFTs).
+A business having a traditional organization structure posts bounty jobs on the corporate Web site. Workers, who may be pseudonymous and work remotely, are members of a DAO within the organization supported by a [Web 5.0 platform](https://www.lcx.com/introduction-to-web-5-0/). When applying for bounty jobs, applicants may be short listed partially based on a blockchain-based reputation system using 360-degree reviews of past work experiences. Work and feedback are submitted using the blockchain. Payments for successfully completed jobs may be processed in fiat or cryptocurrencies. A history recording work experiences, reviews and payments for each worker, as needed to meet tax and regulatory requirements, is stored on the blockchain using non-fungible tokens (NFTs).
 
 **Primary Actor:** Remote Pseudonymous Worker  
 **Scope:**  Bounty Work Procurement System  
@@ -36,10 +36,13 @@ A business having a traditional organization structure posts bounty jobs on the 
 ### Main Success Scenario
 
 1. A worker located anywhere in the world identifies a bounty job of interest on the company's Web site.
-2. The worker applies for the job pseudonymously using a blockchain-based Web application.
-3. According to applicable regulations and standards, the worker is hired.
+2. The worker applies for the job pseudonymously using zero-knowledge proofs of past work experiences and digital IDs (DIDs).
+3. According to applicable employment standards and regulations, the worker is hired.
 4. As a member of the DAO, the pseudonymous worker submits a digitally-signed contract and any required supporting documentation to the employer as non-fungible tokens (NFTs).
-5. 
+5. In the process of completing work, the pseudonymous worker exchanges communications, including status reports and links to work drafts, using blockchain-based applications.
+6. For successfully completed work, the worker submits invoices and payments are processed also using blockchain-based applications.
+7. When the bounty job is complete, the worker reviews the work experience and receives a review from the company. Reviews are stored as NFTs.
+8. The worker receives tax forms related to the work, which the company also prepares as NFTs.
 
 <!-- Document the bounty work / gig worker scenario that Nick Almond described in response to my question(s) in his mentoring session -->
 
