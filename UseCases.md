@@ -61,7 +61,7 @@ Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becom
 
 ### Extensions
 
-3a. If the ecosystem seems to function well, then the employee may choose not to stake any allocated tokens.
+3a. If the ecosystem seems to function well, then the employee may decide not to stake any allocated tokens.
 
 4a. The employee may act in coordination and collaboration with other employees, as may be needed to maintain healthy decentralization within the ecosystem.
 
