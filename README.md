@@ -23,7 +23,7 @@ He became interested in decentralized governance models in 2022, when Cardano en
 
 # Introduction
 
-To date, most Web 3.0 collaboration technology implementations seem to occur outside more traditional and mature industries and markets.
+To date, most Web 3.0 collaboration technology implementations seem to occur outside more traditional, mature industries and markets.
 
 The following documents aim to provide context for requirements analysis and solution identification for a given initiative or long-term planning related to establishing a successful decentralized autonomous organization (DAO) within an existing organization or workplace:
 
