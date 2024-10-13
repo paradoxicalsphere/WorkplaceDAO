@@ -38,7 +38,7 @@ A business having a traditional organization structure posts bounty jobs on the 
 1. A worker located anywhere in the world identifies a bounty job of interest on the company's Web site.
 2. The worker applies for the job pseudonymously using zero-knowledge proofs of past work experiences and digital IDs (DIDs).
 3. According to applicable employment standards and regulations, the worker is hired.
-4. As a member of the DAO, the pseudonymous worker submits a digitally-signed contract and any required supporting documentation to the employer as non-fungible tokens (NFTs).
+4. As a member of the DAO, the pseudonymous worker sends a digitally-signed contract and any required supporting documentation to the employer as non-fungible tokens (NFTs).
 5. In the process of completing work, the pseudonymous worker exchanges communications, including status reports and links to work drafts, with the employer using blockchain-based applications.
 6. For successfully completed work, the worker submits invoices and payments are processed also using blockchain-based applications.
 7. When the bounty job is complete, the worker reviews the work experience and receives a review from the company. Reviews are stored using NFTs.
