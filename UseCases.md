@@ -30,10 +30,12 @@ A DAO comprised of employees with a multinational automotive manufacturer decide
 A business having a traditional organization structure posts bounty jobs on the corporate Web site. Workers, who may be pseudonymous and work remotely, are members of a DAO within the organization. When applying for bounty jobs, applicants may be short listed partially based on a blockchain-based reputation system using 360-degree reviews of past work experiences. Work and feedback are submitted using the blockchain. Payments for successfully completed jobs may be processed in fiat or cryptocurrencies. A history recording work experiences, reviews and payments for each worker, as needed to meet tax and regulatory requirements, is stored on the blockchain using non-fungible tokens (NFTs).
 
 **Primary Actor:** Pseudonymous Worker  
-**Scope:**  
-**Level:**  
+**Scope:**  Bounty Work Procurement System
+**Level:** Summary  
 
 ### Main Success Scenario
+
+1. 
 
 <!-- Document the bounty work / gig worker scenario that Nick Almond described in response to my question(s) in his mentoring session -->
 
@@ -49,8 +51,8 @@ One or more companies using more typically traditional hierarchical reporting st
 Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becoming centralized may be higher. To mitigate the risks, the companies establish a DAO for employees that incentivizes making staking decisions in the interests of the ecosystem as a whole, rather than based on individual self interest. Management allocates tokens to employees for staking based on key performance indicators (KPIs). While employees may make decisions on how to stake allocated tokens within the ecosystem, features in the technology stack prevent employees from spending allocated tokens and rewards.
 
 **Primary Actor:** Employee  
-**Scope:**  Web 3.0 Staking Community  
-**Level:**  Summary
+**Scope:** Web 3.0 Staking Community  
+**Level:** Summary
 
 ### Main Success Scenario
 
