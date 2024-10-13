@@ -48,7 +48,7 @@ A business having a traditional organization structure posts bounty jobs on the 
 
 ### Extensions
 
-
+5a. Pseudonymous workers may form teams.
 
 
 ## Helping Incentivize a Staking Community<a name="staking"></a>
