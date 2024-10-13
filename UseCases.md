@@ -49,7 +49,7 @@ One or more companies using more typically traditional hierarchical reporting st
 Particularly within newly created Web 3.0 ecosystems, the risks of stakes becoming centralized may be higher. To mitigate the risks, the companies establish a DAO for employees that incentivizes making staking decisions in the interests of the ecosystem as a whole, rather than based on individual self interest. Management allocates tokens to employees for staking based on key performance indicators (KPIs). While employees may make decisions on how to stake allocated tokens within the ecosystem, features in the technology stack prevent employees from spending allocated tokens and rewards.
 
 **Primary Actor:** Employee  
-**Scope:**  Web 3.0 Staking Community
+**Scope:**  Web 3.0 Staking Community  
 **Level:**  Summary
 
 ### Main Success Scenario
