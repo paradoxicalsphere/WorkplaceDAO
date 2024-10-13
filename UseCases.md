@@ -41,7 +41,7 @@ A business having a traditional organization structure posts bounty jobs on the 
 4. As a member of the DAO, the pseudonymous worker submits a digitally-signed contract and any required supporting documentation to the employer as non-fungible tokens (NFTs).
 5. In the process of completing work, the pseudonymous worker exchanges communications, including status reports and links to work drafts, with the employer using blockchain-based applications.
 6. For successfully completed work, the worker submits invoices and payments are processed also using blockchain-based applications.
-7. When the bounty job is complete, the worker reviews the work experience and receives a review from the company. Reviews are stored as NFTs.
+7. When the bounty job is complete, the worker reviews the work experience and receives a review from the company. Reviews are stored using NFTs.
 8. The worker receives tax forms related to the work that the company also prepares using NFTs.
 
 <!-- Document the bounty work / gig worker scenario that Nick Almond described in response to my question(s) in his mentoring session -->
