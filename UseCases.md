@@ -11,7 +11,7 @@ The following use cases describe how actors may interact with the [proposed solu
 A project manager with a multinational automative manufacturer gains responsibility for redesigning the user interface of a car. Leveraging an employee DAO, the project manager gives members of the project team autonomy over decisions related to the redesign.<sup><a href="#ToyotaHackathon">1</a></sup>
 
 **Primary Actor:** Project Manager  
-**Scope:**  Project Redesigning Car User Interface
+**Scope:**  Project to Redesign the User Interface of a Car Model  
 **Level:** Summary
 
 ### Main Success Scenario
