@@ -46,7 +46,7 @@ A Project Manager with a multinational automative manufacturer gains responsibil
 3. To represent decision-making power in the project, the Project Manager mints a new token in the employee DAO.
 4. The Project Manager allocates and distributes the new token to the blockchain accounts of project team members based on key performance indicators (KPIs).
 5. When the project reaches milestones involving votes by team members in the DAO, the Project Manager reviews voting results and updates project planning documents according to the decisions that the DAO makes.
-6. When the project completes successfully, the Project Manager sends team members a non-fungible tokens (NFT) reflecting contributions to the project.
+6. When the project completes successfully, the Project Manager sends team members a non-fungible token (NFT) reflecting contributions to the project.
 
 ### Extensions
 
