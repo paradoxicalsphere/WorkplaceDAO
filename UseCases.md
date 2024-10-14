@@ -2,30 +2,9 @@
 
 The following use cases describe how actors may interact with the [proposed solution](./SolutionApproach.md) to respond to events and accomplish business goals:
 
-- [Designing a User Interface](#ui)
 - [Accessing Global Human Capital](#humancapital)
+- [Designing a User Interface](#ui)
 - [Helping Incentivize a Staking Community](#staking)
-
-## Designing a User Interface<a name="ui"></a>
-
-A Project Manager with a multinational automative manufacturer gains responsibility for a project to redesign the user interface of a car. Leveraging an employee Decentralized Autonomous Organization (DAO), the Project Manager gives members of the project team autonomy over decisions related to the redesign.<sup><a href="#ToyotaHackathon">1</a></sup>
-
-**Primary Actor:** Project Manager  
-**Scope:**  Project to Redesign the User Interface of a Production Car Model  
-**Level:** Summary
-
-### Main Success Scenario
-
-1. At a high level—without examining specific details of tasks—the Project Manager plans the work required by the project team, including milestones requiring a vote by the DAO.
-2. The Project Manager selects team members, including developers, user interface designer, graphical designer and test driver.
-3. To represent decision-making power in the project, the Project Manager mints a new token in the employee DAO.
-4. The Project Manager allocates and distributes the new token to the blockchain accounts of project team members based on key performance indicators (KPIs).
-5. When the project reaches milestones involving votes by team members in the DAO, the Project Manager reviews voting results and updates project planning documents according to the decisions that the DAO makes.
-6. When the project completes successfully, the Project Manager sends team members a non-fungible tokens (NFT) reflecting contributions to the project.
-
-### Extensions
-
-4a. As responsibilities and personnel may change throughout the project, the Project Manager and team members may redistribute tokens as needed.
 
 ## Accessing Global Human Capital<a name="humancapital"></a>
 
@@ -52,6 +31,26 @@ A business having a traditional organization structure posts bounty jobs on the 
 
 5a. Pseudonymous workers may form teams and make work-related decisions collectively.
 
+## Designing a User Interface<a name="ui"></a>
+
+A Project Manager with a multinational automative manufacturer gains responsibility for a project to redesign the user interface of a car. Leveraging an employee Decentralized Autonomous Organization (DAO), the Project Manager gives members of the project team autonomy over decisions related to the redesign.<sup><a href="#ToyotaHackathon">1</a></sup>
+
+**Primary Actor:** Project Manager  
+**Scope:**  Project to Redesign the User Interface of a Production Car Model  
+**Level:** Summary
+
+### Main Success Scenario
+
+1. At a high level—without examining specific details of tasks—the Project Manager plans the work required by the project team, including milestones requiring a vote by the DAO.
+2. The Project Manager selects team members, including developers, user interface designer, graphical designer and test driver.
+3. To represent decision-making power in the project, the Project Manager mints a new token in the employee DAO.
+4. The Project Manager allocates and distributes the new token to the blockchain accounts of project team members based on key performance indicators (KPIs).
+5. When the project reaches milestones involving votes by team members in the DAO, the Project Manager reviews voting results and updates project planning documents according to the decisions that the DAO makes.
+6. When the project completes successfully, the Project Manager sends team members a non-fungible tokens (NFT) reflecting contributions to the project.
+
+### Extensions
+
+4a. As responsibilities and personnel may change throughout the project, the Project Manager and team members may redistribute tokens as needed.
 
 ## Helping Incentivize a Staking Community<a name="staking"></a>
 
