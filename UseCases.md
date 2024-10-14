@@ -8,7 +8,7 @@ The following use cases describe how actors may interact with the [proposed solu
 
 ## Designing a User Interface<a name="ui"></a>
 
-A project manager with a multinational automative manufacturer is responsible for redesigning the user interface of a car. Using the employee DAO, the project manager gives team members autonomy over decisions related to redesigning the user interface.<sup><a href="#ToyotaHackathon">1</a></sup>
+A project manager with a multinational automative manufacturer is responsible for redesigning the user interface of a car. Leveraging the employee DAO, the project manager gives the members of the project team autonomy over decisions related to the redesign.<sup><a href="#ToyotaHackathon">1</a></sup>
 
 **Primary Actor:** Project Manager  
 **Scope:**  Project Redesigning Car User Interface
