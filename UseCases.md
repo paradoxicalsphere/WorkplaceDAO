@@ -8,17 +8,18 @@ The following use cases describe how actors may interact with the [proposed solu
 
 ## Designing a User Interface<a name="ui"></a>
 
-A Project Manager with a multinational automative manufacturer gains responsibility for a project to redesign the user interface of a car. Leveraging an employee DAO, the Project Manager gives members of the project team autonomy over decisions related to the redesign.<sup><a href="#ToyotaHackathon">1</a></sup>
+A Project Manager with a multinational automative manufacturer gains responsibility for a project to redesign the user interface of a car. Leveraging an employee Decentralized Autonomous Organization (DAO), the Project Manager gives members of the project team autonomy over decisions related to the redesign.<sup><a href="#ToyotaHackathon">1</a></sup>
 
 **Primary Actor:** Project Manager  
-**Scope:**  Project to Redesign the User Interface of a Car Model  
+**Scope:**  Project to Redesign the User Interface of a Production Car Model  
 **Level:** Summary
 
 ### Main Success Scenario
 
-1. The Project Manager mints a new token in the employee DAO to support decision making in the project.
-2. The Project Manager allocates and distributes the new token to project team members based on key performance indicators (KPIs).
-3. 
+1. At a high level—without examining specific details of tasks—the Project Manager plans the work required by the project team including milestones requiring a vote by the DAO.
+2. To represent decision-making power in the project, the Project Manager mints a new token in the employee DAO.
+3. The Project Manager allocates and distributes the new token to the blockchain accounts of project team members based on key performance indicators (KPIs).
+4. 
 
 
 
