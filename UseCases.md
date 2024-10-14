@@ -8,7 +8,7 @@ The following use cases describe how actors may interact with the [proposed solu
 
 ## Designing a User Interface<a name="ui"></a>
 
-A project manager with a multinational automative manufacturer gains responsibility for redesigning the user interface of a car. Leveraging an employee DAO, the project manager gives members of the project team autonomy over decisions related to the redesign.<sup><a href="#ToyotaHackathon">1</a></sup>
+A Project Manager with a multinational automative manufacturer gains responsibility for a project to redesign the user interface of a car. Leveraging an employee DAO, the Project Manager gives members of the project team autonomy over decisions related to the redesign.<sup><a href="#ToyotaHackathon">1</a></sup>
 
 **Primary Actor:** Project Manager  
 **Scope:**  Project to Redesign the User Interface of a Car Model  
@@ -16,7 +16,9 @@ A project manager with a multinational automative manufacturer gains responsibil
 
 ### Main Success Scenario
 
-
+1. The Project Manager creates a new token in the employee DAO to support decision making in the project.
+2. The Project Manager allocates and distributes the new token to project team members based on key performance indicators (KPIs).
+3. 
 
 
 
