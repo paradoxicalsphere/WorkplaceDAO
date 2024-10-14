@@ -25,8 +25,7 @@ A Project Manager with a multinational automative manufacturer gains responsibil
 
 ### Extensions
 
-
-
+4a. As responsibilities and project personnel may change throughout the project, the Project Manager and team members may redistribute tokens as needed.
 
 ## Accessing Global Human Capital<a name="humancapital"></a>
 
