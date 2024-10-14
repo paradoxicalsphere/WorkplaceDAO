@@ -16,7 +16,7 @@ A Project Manager with a multinational automative manufacturer gains responsibil
 
 ### Main Success Scenario
 
-1. The Project Manager creates a new token in the employee DAO to support decision making in the project.
+1. The Project Manager mints a new token in the employee DAO to support decision making in the project.
 2. The Project Manager allocates and distributes the new token to project team members based on key performance indicators (KPIs).
 3. 
 
