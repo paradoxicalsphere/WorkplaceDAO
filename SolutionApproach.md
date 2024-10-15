@@ -125,7 +125,7 @@ Software application designs provide required features and functionality without
 
 <!-- How--by what means-- will the solution be delivered? -->
 
-The current proposal considers the implementation of an incorruptible DAO within an existing organization or workplace as a long-term decision aiming to establish the DAO as a permanent collaborative and cooperative—rather than a short-term, finite or temporary—internal decision-making structure. If the organization or workplace is unionized, then the union must be involved in designing and establishing the DAO.
+The current proposal considers the implementation of an incorruptible DAO within an existing organization or workplace as a long-term decision aiming to establish the DAO as a permanent collaborative and cooperative—rather than a short-term, finite or temporary—internal decision-making structure. If an organization or workplace is unionized, then the union must be involved in designing and establishing the DAO.
 
 Successful implementation involves training and education for all stakeholders in the DAO. For example, education in preparation for establishing a DAO may include offering an introduction and practical experience related to fundamental game theory, such the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
 
