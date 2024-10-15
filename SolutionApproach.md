@@ -133,7 +133,7 @@ Game theory supposes that games may be finite or infinite. In a finite game, the
 
 <!-- use Greenpilled as a resource in planning the curriculum of the education deliverable -->
 
-Over time, the solution scope and operating rules of a DAO may benefit from continuous improvement and refinement. The proposal recommends managing a DAO using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
+The solution scope and operating rules of a DAO may benefit from continuous improvement and refinement. The proposal recommends managing a DAO using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
 
 The proposal recommends building solutions using [Arbitrum](https://arbitrum.io/).
 
