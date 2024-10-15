@@ -125,23 +125,21 @@ Software application designs provide required features and functionality without
 
 <!-- How--by what means-- will the solution be delivered? -->
 
-The current proposal considers the implementation of an incorruptible DAO within an existing organization or workplace as a long-term decision aiming to establish the DAO as a permanent collaborative and cooperative—rather than a short-term, finite or temporary—internal decision-making structure.
+The current proposal considers the implementation of an incorruptible DAO within an existing organization or workplace as a long-term decision aiming to establish the DAO as a permanent collaborative and cooperative—rather than a short-term, finite or temporary—internal decision-making structure. If the organization or workplace is unionized, then the union must be involved in designing and establishing the DAO.
 
-Successful implementation involves training and education for all stakeholders in the DAO within the organization or workplace. For example, education in preparation for implementing a DAO includes an introduction and practice related to fundamental game theory, such the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
+Successful implementation involves training and education for all stakeholders in the DAO. For example, education in preparation for establishing a DAO may include offering an introduction and practical experience related to fundamental game theory, such the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
 
-Game theory also supposes that games may be finite or infinite. In a finite game, the goal is to win. In an infinite game, the goal is to continue playing.<sup><a href="#JamesCarse">9</a></sup> Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends with winners and losers just like a finite game. In a successful DAO, any employee who notices a situation where the business may be failing customers must recognize an obligation to respond so that the business may continue to succeed. All participants in the DAO need the intention—and need to understand the critical importance of the intention to the survival of the DAO—to continue actively making efforts to playing the game collaboratively, rather than allowing the game to end. Activities may include playing games to demonstrate that cooperation is more rewarding for players than self-interest.
+Game theory supposes that games may be finite or infinite. In a finite game, the goal is to win. In an infinite game, the goal is to continue playing.<sup><a href="#JamesCarse">9</a></sup> Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends with winners and losers just like a finite game. In a successful DAO, any employee who notices a situation where the business may be failing customers must recognize an obligation to respond so that the business may continue to succeed. All participants in the DAO need the intention—and need to understand the critical importance of the intention to the survival of the DAO—to continue actively making efforts to playing the game collaboratively, rather than allowing the game to end. Activities may include playing games to demonstrate that cooperation is more rewarding for players than self-interest.
 
 <!-- use Greenpilled as a resource in planning the curriculum of the education deliverable -->
 
-The proposal recommends building solutions using [Arbitrum](https://arbitrum.io/).
-
 Over time, the solution scope and operating rules of a DAO may benefit from continuous improvement and refinement. The proposal recommends managing a DAO using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
+
+The proposal recommends building solutions using [Arbitrum](https://arbitrum.io/).
 
 
 
 <!-- Explore tying DAO tokens directly to salary, stock options, vacation or other financial incentives? https://www.rndao.io/blog/post/startups-from-solo-to-multiplayer-from-ad-hoc-to-systematic -->
-
-<!-- If the organization or workplace is unionized, then the union must be involved in designing and establishing the DAO -->
 
 <!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
 
@@ -167,9 +165,9 @@ The current solution approach suggests that organizations and workplaces recover
 
 ## Conclusion<a name="conclusion"></a>
 
-Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">9</a></sup>
+Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">10</a></sup>
 
-In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">8</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">10</a></sup>
+In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">8</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">11</a></sup>
 
 ## References<a name="references"></a>
 
@@ -191,7 +189,7 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="JamesCarse"></a><sup>9</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 
-<a name="SterzikThesis"></a><sup>9</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+<a name="SterzikThesis"></a><sup>10</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
 
-<a name="JuliaMartins"></a><sup>10</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+<a name="JuliaMartins"></a><sup>11</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
 
