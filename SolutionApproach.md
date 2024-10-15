@@ -102,11 +102,18 @@ Customers may benefit from improved organizational responsiveness and engagement
 
 ### Software Applications<a name="software"></a>
 
-<!-- What off-the-shelf software may FactoryDAO offer to help implement the proposed solution? IMPORTANT: Does FactoryDAO, and specifically the solutions that may be mentioned, build on Arbitrum? -->
+The solution approach requires a blockchain implementation supporting the following general features:
 
-<!-- Discuss privacy and security... namely, employee decisions should not be subject to scrutiny by the employer in the background. Similar privacy legislations that apply to e-mails that an employee may draft using a company computer should apply. Cite details from my CityU thesis. -->
+- Smart contracts
+- Tokens
+- Non-fungible tokens (NFTs)
+- Secure and private storage of employee data
 
 Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">8</a></sup>
+
+<!-- What off-the-shelf software may FactoryDAO offer to help implement the proposed solution? IMPORTANT: Does FactoryDAO, and specifically the solutions that may be mentioned, build on Arbitrum? -->
+
+<!-- xDiscuss privacy and security... namely, employee decisions should not be subject to scrutiny by the employer in the background. Similar privacy legislations that apply to e-mails that an employee may draft using a company computer should apply. Cite details from my CityU thesis. -->
 
 <!-- The goal of the Toyota hackathon on Astar was "creating a support tool allowing anyone to create teams, issue governance tokens and vote without needing to understand the details of Web 3.0." The technology stack needed to implement the current proposal in an existing organization or workplace may have similar features requirements, although used in a more structured manner. -->
 
@@ -118,17 +125,21 @@ Software application designs provide required features and functionality without
 
 <!-- How--by what means-- will the solution be delivered? -->
 
+The current proposal considers the implementation of an incorruptible DAO within an existing organization or workplace as a long-term decision aiming to establish the DAO as a permanent collaborative and cooperative—rather than a short-term, finite or temporary—internal decision-making structure.
+
+Successful implementation involves training and education for all stakeholders in the DAO within the organization or workplace. For example, education in preparation for implementing a DAO includes an introduction and practice related to fundamental game theory, such the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
+
+Game theory also supposes that games may be finite or infinite. In a finite game, the goal is to win. In an infinite game, the goal is to continue playing.<sup><a href="#JamesCarse">9</a></sup> Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends with winners and losers just like a finite game. In a successful DAO, any employee who notices a situation where the business may be failing customers must recognize an obligation to respond so that the business may continue to succeed. All participants in the DAO need the intention—and need to understand the critical importance of the intention to the survival of the DAO—to continue actively making efforts to playing the game collaboratively, rather than allowing the game to end. Activities may include playing games to demonstrate that cooperation is more rewarding for players than self-interest.
+
+<!-- use Greenpilled as a resource in planning the curriculum of the education deliverable -->
+
+The proposal recommends building solutions using [Arbitrum](https://arbitrum.io/).
+
+Over time, the solution scope and operating rules of a DAO may benefit from continuous improvement and refinement. The proposal recommends managing a DAO using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
 
 
-The current proposal assumes that implementing an incorruptible DAO within an existing organization or workplace is a long-term decision aiming to establish the DAO as a permanent collaborative and cooperative—rather than a short-term, finite or temporary—internal decision-making structure.
 
-Over time, the solution scope and operating rules of a DAO may benefit from continuous improvement and refinement. The current proposal recommends managing a DAO using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
-
-<!-- Successful implementation involves training and education for all stakeholders in the DAO within the organization. For example, education in preparation for implementing a DAO includes an introduction and practice related to game theory, including the prisoners dilemma (use Greenpilled as a resource in planning the curriculum of the education). In finite games, the goal is to win. In an infinite game, the goal is to continue playing. Activities may include playing games that demonstrate cooperation is more rewarding for players than self-interest.
-
-DAO participants must also understand that infinite games may be played as finite games, in which case the game ends just like a finite game, with winners and losers. In a DAO, any player who recognizes that the game may be ending has an obligation to change the rules so that the game may continue. All participants in the DAO need the intention, and need to understand the critical importance of the intention to the survival of the DAO, to keep playing the game, rather than ending the game. -->
-
-<!-- Explore tying DAO tokens directly to salary, stick options, vacation or other financial incentives? https://www.rndao.io/blog/post/startups-from-solo-to-multiplayer-from-ad-hoc-to-systematic -->
+<!-- Explore tying DAO tokens directly to salary, stock options, vacation or other financial incentives? https://www.rndao.io/blog/post/startups-from-solo-to-multiplayer-from-ad-hoc-to-systematic -->
 
 <!-- If the organization or workplace is unionized, then the union must be involved in designing and establishing the DAO -->
 
@@ -177,6 +188,8 @@ In recent years, managers in various industries have been burdened with workload
 <a name="KPIs"></a><sup>7</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
 
 <a name="Chainwire"></a><sup>8</sup> [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
+
+<a name="JamesCarse"></a><sup>9</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 
 <a name="SterzikThesis"></a><sup>9</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
 
