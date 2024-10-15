@@ -23,7 +23,7 @@ DAOs have been heralded as the future of governance, unlocking a more egalitaria
 
 **The current proposal offers a solution approach for implementing a DAO within an existing organization or workplace, leveraging the structures and strengths already established to ensure that the DAO remains incorruptible over time. DAOs established within existing organizations or workplaces may be more resilient, effective and successful than DAOs standing alone.**
 
-Establishing a DAO may help prepare and position an existing organization or workplace to thrive in a future where Web3 solutions help solve problems of cooperation and collaboration at scales previously not possible. Organizations and workplaces establishing DAOs may be more adaptable, resilient and vibrant in response to changing social and market conditions, becoming more productive and competitive.
+Establishing a DAO may help prepare and position an existing organization or workplace to thrive in a future where Web 3.0 solutions help solve problems of cooperation and collaboration at scales previously not possible. Organizations and workplaces establishing DAOs may be more adaptable, resilient and vibrant in response to changing social and market conditions, becoming more productive and competitive.
 
 Establishing a DAO may help an organization or workplace continue to attract the best talent in the next generations of workers.
 
