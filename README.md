@@ -31,6 +31,8 @@ The following documents aim to provide context for requirements analysis and sol
 
 Helping Web 2.0 businesses realize potential of implementing Web 3.0 collaboration technologies to improve the effectiveness of organizations and workplaces may play a role in successfully increasing Web 3.0 adoption.
 
+<!-- ANOTHER IDEA: Collaboration technology for children or education would seem to be another good idea in general. -->
+
 # Many Thanks<a name="thanks"></a>
 
 Daniel Ospina  
