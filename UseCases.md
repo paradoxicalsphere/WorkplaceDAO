@@ -10,6 +10,8 @@ The following use cases describe how actors may interact with the [proposed solu
 
 A business having a traditional organization structure posts bounty jobs on the corporate Web site. Workers, who may be pseudonymous and work remotely, are members of a DAO within the organization supported by a [Web 5.0 platform](https://www.lcx.com/introduction-to-web-5-0/). When applying for bounty jobs, applicants may be short listed partially based on a blockchain-based reputation system using 360-degree reviews of past work experiences. Workers receive tokens representing decision-making power in the DAO based on reputation. Work and feedback are submitted using the blockchain. Payments for successfully completed jobs may be processed in fiat or cryptocurrencies. A history recording work experiences, reviews and payments for each worker, as needed to meet tax and regulatory requirements, is stored on the blockchain using non-fungible tokens (NFTs).
 
+<!-- Nick Almond used the word "hybrid" to describe a business having traditional employees that also accesses global human capital using a Web 5.0 platform, for example. -->
+
 **Primary Actor:** Remote Pseudonymous Worker  
 **Scope:**  Bounty Work Procurement System  
 **Level:** Summary
