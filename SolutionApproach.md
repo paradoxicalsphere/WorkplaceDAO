@@ -113,17 +113,19 @@ In general, the solution approach requires a blockchain implementation supportin
 - Non-fungible tokens (NFTs)
 - Secure and private storage of employee data
 
+<!-- What about privacy considerations, for DAO members transacting on chain? -->
+
 Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">9</a></sup>
-
-<!-- What off-the-shelf software may FactoryDAO offer to help implement the proposed solution? IMPORTANT: Does FactoryDAO, and specifically the solutions that may be mentioned, build on Arbitrum? -->
-
-<!-- xDiscuss privacy and security... namely, employee decisions should not be subject to scrutiny by the employer in the background. Similar privacy legislations that apply to e-mails that an employee may draft using a company computer should apply. Cite details from my CityU thesis. -->
 
 <!-- The goal of the Toyota hackathon on Astar was "creating a support tool allowing anyone to create teams, issue governance tokens and vote without needing to understand the details of Web 3.0." The technology stack needed to implement the current proposal in an existing organization or workplace may have similar features requirements, although used in a more structured manner. -->
 
+<!-- xWhat off-the-shelf software may FactoryDAO offer to help implement the proposed solution? IMPORTANT: Does FactoryDAO, and specifically the solutions that may be mentioned, build on Arbitrum? -->
+
+<!-- xDiscuss privacy and security... namely, employee decisions should not be subject to scrutiny by the employer in the background. Similar privacy legislations that apply to e-mails that an employee may draft using a company computer should apply. Cite details from my CityU thesis. -->
+
 <!-- https://daohaus.club/ Recommended by Disruption Joe as a platform or technology stack to consider using to implement the solution described in the current proposal -->
 
-<!-- TO-DO: Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum with Jordan Imran (Aragon) -->
+<!-- xTO-DO: Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum with Jordan Imran (Aragon) -->
 
 ## Methodology and Lifecycle<a name="methodology"></a>
 
@@ -135,15 +137,15 @@ Successful implementation involves training and education for all stakeholders i
 
 Game theory supposes that games may be finite or infinite. In a finite game, the goal is to win when the game ends. In an infinite game, the goal is to continue playing.<sup><a href="#JamesCarse">10</a></sup> Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends with winners and losers, just like any finite game. In a successful DAO within an organization or workplace, employees recognize the importance of responding to negative effects for the sustainability of the business.<sup><a href="#CHT">11</a></sup> All participants in the DAO need the intention—and need to understand the critical importance of the intention for the sustainability of the DAO as well as the organization—to continue actively making efforts to work in collaboration. Activities exploring how to contribute effectively as a member of a DAO may include playing games demonstrating that cooperation is more rewarding than self interest, particularly over time.
 
-<!-- use Greenpilled as a resource in planning the curriculum of the education deliverable -->
+<!-- Use Greenpilled as a resource in planning the curriculum of the education deliverable. -->
 
 The solution scope and rules incentivizing the day-to-day operation of a DAO may benefit from continuous improvement and refinement in response to unintended consequences. The current proposal recommends managing a DAO using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
 
-<!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
-
-<!-- TO-DO: Discuss methodologies with Andrea Gallagher -->
+<!-- xTO-DO: Discuss methodologies with Andrea Gallagher -->
 
 ## Feasibility<a name="feasibility"></a>
+
+<!-- How to assess whether an organization or workplace is capable of implementing and effectively using the solution? -->
 
 Unhealthy and unsafe workplace practices may:
 
@@ -153,13 +155,11 @@ Unhealthy and unsafe workplace practices may:
 
 The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.<sup><a href="#SterzikThesis">12</a></sup>
 
-<!-- How to assess whether an organization or workplace is capable of implementing and effectively using the solution? -->
+<!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
 
 <!-- Discuss HR and employment standards that may apply to scope of DAO responsibilities -->
 
-<!-- What about privacy considerations, for DAO members transacting on chain? -->
-
-<!-- Discuss identified problems and problem statements -->
+<!-- xDiscuss identified problems and problem statements -->
 
 ## Conclusion<a name="conclusion"></a>
 
