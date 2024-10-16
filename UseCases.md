@@ -25,11 +25,11 @@ A business having a traditional organization structure posts bounty jobs on the 
 7. When the bounty job is complete, the worker reviews the work experience and receives a review from the company. Reviews are stored using NFTs.
 8. The worker receives tax forms related to completed work that the company prepares according to regulations, also using NFTs.
 
-<!-- Document the bounty work / gig worker scenario that Nick Almond described in response to my question(s) in his mentoring session -->
-
 ### Extensions
 
 5a. Pseudonymous workers may form teams and make work-related decisions collectively.
+
+<!-- In Nick Almond's (Factory DAO) mentoring session, he described the bounty work / gig worker scenario in response to my question(s). -->
 
 ## Designing a User Interface<a name="ui"></a>
 
@@ -74,6 +74,8 @@ Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becom
 3a. If the ecosystem seems to function well, then the employee may decide not to stake any allocated tokens.
 
 4a. The employee may act in coordination and collaboration with other employees, as may be needed to maintain healthy decentralization within the ecosystem.
+
+<!-- The scenario is based on my response to CIP-1694 in the Cardano ecosystem, available at https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/main/CIP-x/README.md -->
 
 # References<a name="references"></a>
 
