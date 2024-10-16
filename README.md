@@ -47,7 +47,7 @@ Max Lomu
 *Ecosystem Lead*  
 Everclear
 
-Disruption Joe  
+Joe Hernandez  
 *Delegate*  
 Arbitrum DAO
 
