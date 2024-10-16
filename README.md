@@ -54,6 +54,7 @@ Arbitrum DAO
 Nick Almond  
 *Founder*  
 Factory DAO
+<!-- Nick invited me to chat further about the idea via direct messages. His Telegram contact is @DrNickA https://t.me/factdao He said, "Be persistent. My Telegram is a nightmare." -->
 
 <!-- **Kevin Owocki, Founder, Gitcoin | 1-on-1 session -->
 <!-- **Nick Almond, Founder, Factory DAO | implementation -->
