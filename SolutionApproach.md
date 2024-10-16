@@ -29,6 +29,8 @@ Establishing a DAO may help an organization or workplace continue to attract the
 
 The proposal aims to describe solution components—such as new processes and software applications—as well as methodologies to establish a DAO successfully in an existing organization or workplace.
 
+<!-- "DAOs have been around for about five years, and corporations have been around for about 400 years. Let's let things play out over the next 20 years or so." --Kevin Owocki -->
+
 ## Inputs and Outputs<a name="io"></a>
 
 Determining the solution approach relies on the following inputs:
