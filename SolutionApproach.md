@@ -133,11 +133,11 @@ The current proposal considers the implementation of an incorruptible DAO within
 
 Successful implementation involves training and education for all stakeholders in a DAO. For example, education in preparation for establishing a DAO may include offering an introduction and practical experience related to fundamental game theory, such as the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
 
-Game theory supposes that games may be finite or infinite. In a finite game, the goal is to win. In an infinite game, the goal is to continue playing sustainably.<sup><a href="#JamesCarse">10</a></sup> Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends with winners and losers, just like any finite game. In a successful DAO within an organization or workplace, any employee who notices a situation where the business may be failing customers must recognize an obligation to respond so that the business remains sustainable. All participants in the DAO need the intention—and need to understand the critical importance of the intention to the survival of the DAO as well as the organization—to continue actively making efforts to work collaboratively and sustainably. Activities exploring how to contribute effectively as a member of a DAO may include playing games demonstrating that cooperation is more rewarding than self interest, particularly over time.
+Game theory supposes that games may be finite or infinite. In a finite game, the goal is to win. In an infinite game, the goal is to continue playing sustainably.<sup><a href="#JamesCarse">10</a></sup> Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends with winners and losers, just like any finite game. In a successful DAO within an organization or workplace, any employee who notices a situation where the business may be failing customers must recognize an obligation to respond so that the business remains sustainable. All participants in the DAO need the intention—and need to understand the critical importance of the intention to the survival of the DAO as well as the organization—to continue actively making efforts to work collaboratively—in other words, sustainably. Activities exploring how to contribute effectively as a member of a DAO may include playing games demonstrating that cooperation is more rewarding than self interest, particularly over time.
 
 <!-- use Greenpilled as a resource in planning the curriculum of the education deliverable -->
 
-The solution scope and rules incentivizing the day-to-day operation of a DAO may benefit from continuous improvement and refinement, particularly in response to unintended consequences. The proposal recommends managing a DAO using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
+The solution scope and rules incentivizing the day-to-day operation of a DAO may benefit from continuous improvement and refinement, for example in response to negative externalities or unintended consequences.<sup><a href="#CHT">11</a></sup> The proposal recommends managing a DAO using a decision-making loop of observation, orientation, decision and action ([OODA](https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop)) with changes implemented weekly or monthly.
 
 <!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
 
@@ -151,7 +151,7 @@ Unhealthy and unsafe workplace practices may:
 - Interfere with the capabilities of an organization to provide products and services to external stakeholders, and
 - Create liabilities for workers' compensation insurers
 
-The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.<sup><a href="#SterzikThesis">9</a></sup>
+The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.<sup><a href="#SterzikThesis">12</a></sup>
 
 <!-- How to assess whether an organization or workplace is capable of implementing and effectively using the solution? -->
 
@@ -163,9 +163,9 @@ The current solution approach suggests that organizations and workplaces recover
 
 ## Conclusion<a name="conclusion"></a>
 
-Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">11</a></sup>
+Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">12</a></sup>
 
-In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">9</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">12</a></sup>
+In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">9</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">13</a></sup>
 
 ## References<a name="references"></a>
 
@@ -189,7 +189,9 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="JamesCarse"></a><sup>10</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 
-<a name="SterzikThesis"></a><sup>11</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+<a name="CHT"></a><sup>11</sup> [Key Issues Overview](https://www.humanetech.com/key-issues)
 
-<a name="JuliaMartins"></a><sup>12</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+<a name="SterzikThesis"></a><sup>12</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+
+<a name="JuliaMartins"></a><sup>13</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
 
