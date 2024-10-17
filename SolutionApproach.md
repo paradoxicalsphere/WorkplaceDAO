@@ -202,11 +202,11 @@ In recent years, managers in various industries have been burdened with workload
     <tr>
         <th align="center">
             <img width="500" height="1">
-            <p><a href="./Pitch.md"><— Pitch</a></p>
+            <p><a href="./Pitch.md"><—&nbsp;&nbsp;Pitch</a></p>
         </th>
         <th align="center">
             <img width="500" height="1">
-            <p><a href="./UseCases.md">Scenarios and Use Cases —></a></p>
+            <p><a href="./UseCases.md">Scenarios and Use Cases&nbsp;&nbsp;—></a></p>
         </th>
     </tr>
 </table>
