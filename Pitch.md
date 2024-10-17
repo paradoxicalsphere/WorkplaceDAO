@@ -34,9 +34,9 @@
 
 <!-- End the pitch by saying that I'm currently seeking input on possible next steps regarding the proposal -->
 
-<table>
+<table style="width:100%">
     <tr>
-        <td align="left">[<-- README](./README.md)</td>
-        <td align="right">[Solution Approach -->](./SolutionApproach.md)</td>
+        <td style="text-align:left"><a href="./README.md"><-- README]</a></td>
+        <td style="text-align:right"><a href="./SolutionApproach.md">Solution Approach --></a></td>
     </tr>
 </table>
