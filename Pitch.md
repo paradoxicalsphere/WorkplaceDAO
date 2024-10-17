@@ -40,14 +40,14 @@
 <table>
 <tr>
 <th align="center">
-<img width="441" height="1">
+<img width="500" height="1">
 <p> 
 <a href="./README.md"><-- Introduction</a>
 
 </p>
 </th>
 <th align="center">
-<img width="441" height="1">
+<img width="500" height="1">
 <p> 
 <a href="./SolutionApproach.md">Solution Approach --></a>
 </p>
