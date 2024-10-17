@@ -67,7 +67,7 @@ A dual role, or dual relationship, is one in which there are two (or more) disti
 
 Successful DAOs build cooperation.<sup><a href="#Veritasium">6</a></sup> Working to build—or rebuild—trust requires good, positive and ongoing communication reinforcing truthfulness, integrity and reliability, and comes with no guarantee of success.<sup><a href="#SterzikTrust">7</a></sup>
 
-While seeming inefficient, the process of a DAO may be important for developing an effective organization or workplace.
+While seeming more inefficient, the process of a DAO may be important for developing an effective organization or workplace.
 
 ## Solution Components<a name="components"></a>
 
