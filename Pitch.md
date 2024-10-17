@@ -34,15 +34,23 @@
 
 <!-- End the pitch by saying that I'm currently seeking input on possible next steps regarding the proposal -->
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
+
+
 
 <table>
-    <tr>
-        <td style="text-align:left"><a href="./README.md"><-- Introduction</a></td>
-        <td style="text-align:right"><a href="./SolutionApproach.md">Solution Approach --></a></td>
-    </tr>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<a href="./README.md"><-- Introduction</a>
+
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<a href="./SolutionApproach.md">Solution Approach --></a>
+</p>
+</th>
+</tr>
 </table>
