@@ -197,6 +197,7 @@ In recent years, managers in various industries have been burdened with workload
 
 <a name="JuliaMartins"></a><sup>13</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
 
+<br />
 <table>
     <tr>
         <th align="center">
