@@ -76,7 +76,7 @@ Factory DAO
         </th>
         <th align="center">
             <img width="500" height="1">
-            <p><a href="./Pitch.md">Pitch&nbsp;&nbsp;—></a></p>
+            <p><a stype="text-decoration: none;" href="./Pitch.md">Pitch&nbsp;&nbsp;—></a></p>
         </th>
     </tr>
 </table>
