@@ -25,7 +25,7 @@ In a DAO, decision-making power typically is associated with one or more tokens 
 
 The current proposal offers a solution approach for implementing a DAO within an existing organization or workplace. DAOs established within existing organizations or workplaces may be more resilient, effective and successful than DAOs standing alone. Leveraging structures and strengths already established within more traditional organizational structures ensures that a DAO remains incorruptible over time.
 
-Establishing a DAO may help increase employee engagement and improve decision-making capabilities to prepare and position an existing organization or workplace for a future where Web 3.0 solutions facilitate cooperation and collaboration at scales previously not possible. Organizations and workplaces establishing DAOs may be more adaptable, resilient and vibrant in response to changing social and market conditions, becoming more productive and competitive.
+Also, establishing a DAO may help increase employee engagement and improve decision-making capabilities to prepare and position an existing organization or workplace for a future where Web 3.0 solutions facilitate cooperation and collaboration at scales previously not possible. Organizations and workplaces establishing DAOs may be more adaptable, resilient and vibrant in response to changing social and market conditions, becoming more productive and competitive.
 
 Establishing a DAO may help an organization or workplace continue to attract the best talent in the next generations of workers.
 
