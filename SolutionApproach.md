@@ -96,7 +96,7 @@ DAO tokens may relate directly to forms of compensation, such as salary, stock o
 
 For example, the solution scope may include, but not be limited to, deciding disbursements to selected charities and not-for-profit organizations within the local community that the organization may support.
 
-Customers may benefit from improved organizational responsiveness and engagement that a DAO may enable.
+Customers may benefit from improved organizational responsiveness and engagement that a DAO may bring.
 
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/DAOs%20Within%20Workplaces.png" alt="" title="">
