@@ -67,6 +67,7 @@ Factory DAO
 <!-- Earth2Travis, Founder, Yeeter | funding -->
 <!-- Ana Maria Y. | funding -->
 
+<br />
 <table>
     <tr>
         <th align="center">
