@@ -67,3 +67,15 @@ Factory DAO
 <!-- Earth2Travis, Founder, Yeeter | funding -->
 <!-- Ana Maria Y. | funding -->
 
+<table>
+    <tr>
+        <th align="center">
+            <img width="500" height="1">
+            <p>&nbsp;</p>
+        </th>
+        <th align="center">
+            <img width="500" height="1">
+            <p><a href="./Pitch.md">Pitch --></a></p>
+        </th>
+    </tr>
+</table>
