@@ -34,6 +34,7 @@
 
 <!-- End the pitch by saying that I'm currently seeking input on possible next steps regarding the proposal -->
 
+<br />
 <table>
     <tr>
         <th align="center">
