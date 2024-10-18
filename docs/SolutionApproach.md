@@ -57,7 +57,7 @@ The integrity of voting in a DAO requires:<sup><a href="#KevinOwocki">3</a></sup
 
 - Decentralization of voting power
 - Accurate identification of DAO members<sup><a href="#WikipediaSybil">4</a></sup>
-- DAO members engaging and participating actively and genuinely
+- DAO members engaging and participating in the DAO actively and genuinely
 - DAO members NOT colluding to vote to each other's advantage
 
 A dual role, or dual relationship, is one in which there are two (or more) distinct kinds of relationship with the same person or entity. Employee members of a DAO maintain a dual role within the organization or workplace. While dual relationships always introduce greater complexity, they are not inherently exploitative. Indeed, the increased human engagement through a dual relationship is far more likely to be affirming, reassuring and enriching than exploitative. The following practical guidelines are designed to help navigate dual relationships:<sup><a href="#SterzikBlog">5</a></sup>
