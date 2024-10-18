@@ -35,15 +35,4 @@
 <!-- End the pitch by saying that I'm currently seeking input on possible next steps regarding the proposal -->
 
 <br />
-<table>
-    <tr>
-        <th align="center">
-            <img width="460" height="1">
-            <p><a href="../README.md"><—&nbsp;&nbsp;Description</a></p>
-        </th>
-        <th align="center">
-            <img width="460" height="1">
-            <p><a href="./SolutionApproach.md">Solution Approach&nbsp;&nbsp;—></a></p>
-        </th>
-    </tr>
-</table>
+<p><a href="../README.md"><—&nbsp;&nbsp;Description</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./SolutionApproach.md">Solution Approach&nbsp;&nbsp;—></a></p>
