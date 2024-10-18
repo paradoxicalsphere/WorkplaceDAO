@@ -203,15 +203,4 @@ In recent years, managers in various industries have been burdened with workload
 <a name="JuliaMartins"></a><sup>13</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
 
 <br />
-<table>
-    <tr>
-        <th align="center">
-            <img width="460" height="1">
-            <p><a href="./Pitch.md"><—&nbsp;&nbsp;Pitch</a></p>
-        </th>
-        <th align="center">
-            <img width="460" height="1">
-            <p><a href="./UseCases.md">Scenarios and Use Cases&nbsp;&nbsp;—></a></p>
-        </th>
-    </tr>
-</table>
+<p align="center"><a href="./Pitch.md"><—&nbsp;&nbsp;Pitch</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./UseCases.md">Scenarios and Use Cases&nbsp;&nbsp;—></a></p>
