@@ -39,7 +39,7 @@
     <tr>
         <th align="center">
             <img width="500" height="1">
-            <p><a href="./README.md"><—&nbsp;&nbsp;Introduction</a></p>
+            <p><a href="./README.md"><—&nbsp;&nbsp;Description</a></p>
         </th>
         <th align="center">
             <img width="500" height="1">
