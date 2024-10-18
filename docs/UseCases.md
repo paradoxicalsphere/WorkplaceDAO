@@ -83,9 +83,9 @@ Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becom
 
 ### References<a name="references"></a>
 
-<a name="AlistairCockburn"></a><sup>1/sup> [Writing Effective Use Cases](https://www.academia.edu/32227372/Alistair_Cockburn_Writing_Effective_Use_Cases)
+<a name="AlistairCockburn"></a><sup>1</sup> [Writing Effective Use Cases](https://www.academia.edu/32227372/Alistair_Cockburn_Writing_Effective_Use_Cases)
 
-<a name="ToyotaHackathon"></a><sup>2/sup> [Toyota Hackathon Submission](https://github.com/ok-Alice/toyota-astar-hackathon)
+<a name="ToyotaHackathon"></a><sup>2</sup> [Toyota Hackathon Submission](https://github.com/ok-Alice/toyota-astar-hackathon)
 
 <br />
 <p align="center"><a href="./SolutionApproach.md"><—&nbsp;&nbsp;Solution Approach</a></p>
