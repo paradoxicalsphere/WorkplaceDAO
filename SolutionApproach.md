@@ -1,6 +1,6 @@
-# Solution Approach
+## Solution Approach
 
-## Contents
+### Contents
 
 [Executive Summary](#summary)  
 [Inputs and Outputs](#io)  
@@ -15,7 +15,7 @@
 
 <!-- IMPORTANT: Prior to submitting the repo, review the eligibility requirements in the #rules-and-guidelines Discord server for the hackathon to ensure that the proposal is eligible -->
 
-## Executive Summary<a name="summary"></a>
+### Executive Summary<a name="summary"></a>
 
 Most commonly, traditional organizational structures are hierarchical. Similarly, members in a labor union elect a centralized leadership. Decentralized Autonomous Organizations (DAOs) offer a model for decision making distributing voting rights across all members, typically with no central authority—only the will of the collective. Within an existing organization or workplace, DAO members may assume a share of duties and responsibilities usually associated with management levels. The relationship between DAOs and labor unions is complementary.
 
@@ -33,7 +33,7 @@ The proposal aims to describe solution components—such as new processes and so
 
 <!-- "DAOs have been around for about five years, and corporations have been around for about 400 years. Let's let things play out over the next 20 years or so." --Kevin Owocki -->
 
-## Inputs and Outputs<a name="io"></a>
+### Inputs and Outputs<a name="io"></a>
 
 Determining the solution approach relies on the following inputs:
 
@@ -43,7 +43,7 @@ Determining the solution approach relies on the following inputs:
 
 Use the solution approach to define the solution scope.
 
-## Assumptions and Constraints<a name="assumptions"></a>
+### Assumptions and Constraints<a name="assumptions"></a>
 
 DAOs offer a model specifically for ratifying decisions. In the current proposal, existing resources, processes and workflows available within organizations and workplaces for analysis, evaluation, planning, elicitation, collaboration, design, management and communication inform the collective decisions that a DAO may make. Determining the solution scope identifies the business decisions entrusted to a DAO. 
 
@@ -69,11 +69,14 @@ Successful DAOs build cooperation.<sup><a href="#Veritasium">6</a></sup> Working
 
 While seeming more inefficient, the process of a DAO may be important for developing an effective organization or workplace.
 
-## Solution Components<a name="components"></a>
+### Solution Components<a name="components"></a>
 
+The current proposal discusses solution components in terms of:
 
+- [New Processes](#processes)
+- [Software Applications](#software)
 
-### New Processes<a name="components"></a>
+#### New Processes<a name="processes"></a>
 
 When designing a DAO, the solution approach informs the solution scope.
 
@@ -106,7 +109,7 @@ Customers may benefit from improved organizational responsiveness and engagement
 
 <!-- To design a DAO that gives people what they need, work backwards from the customer -->
 
-### Software Applications<a name="software"></a>
+#### Software Applications<a name="software"></a>
 
 The current proposal recommends building solutions using [Arbitrum](https://arbitrum.io/).
 
@@ -131,7 +134,7 @@ Software application designs provide required features and functionality without
 
 <!-- xTO-DO: Discuss subnet and smart contract requirements of the solution as applicable to Arbitrum with Jordan Imran (Aragon) -->
 
-## Methodology and Lifecycle<a name="methodology"></a>
+### Methodology and Lifecycle<a name="methodology"></a>
 
 <!-- How--by what means-- will the solution be delivered? -->
 
@@ -147,7 +150,7 @@ The solution scope and rules incentivizing the day-to-day operation of a DAO may
 
 <!-- xTO-DO: Discuss methodologies with Andrea Gallagher -->
 
-## Feasibility<a name="feasibility"></a>
+### Feasibility<a name="feasibility"></a>
 
 <!-- How to assess whether an organization or workplace is capable of implementing and effectively using the solution? -->
 
@@ -165,13 +168,13 @@ The current solution approach suggests that organizations and workplaces recover
 
 <!-- xDiscuss identified problems and problem statements -->
 
-## Conclusion<a name="conclusion"></a>
+### Conclusion<a name="conclusion"></a>
 
 Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">12</a></sup>
 
 In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">9</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">13</a></sup>
 
-## References<a name="references"></a>
+### References<a name="references"></a>
 
 <a name="IBM"></a><sup>1</sup> [What Is Sustainability in Business?](https://www.ibm.com/topics/business-sustainability)
 
