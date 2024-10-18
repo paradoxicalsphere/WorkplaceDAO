@@ -102,7 +102,7 @@ For example, the solution scope may include, but not be limited to, deciding dis
 Customers may benefit from improved organizational responsiveness and engagement that a DAO may bring.
 
 <p align="center">
-    <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/DAOs%20Within%20Workplaces.png" alt="" title="">
+    <img src="./images/DAOs%20Within%20Workplaces.png" alt="" title="">
     <br>
     <i>Figure 1 - Stakeholder Map of an Incorruptible DAO Within an Organization or Workplace</i>
 </p>
