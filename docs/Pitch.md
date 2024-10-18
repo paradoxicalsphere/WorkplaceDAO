@@ -1,7 +1,7 @@
 ## Pitch
 
 <p align="center">
-    <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/pitch-01.png" alt="" title="">
+    <img src="./images/pitch-01.png" alt="" title="">
     <br>
     <i>Figure 1 - Web 2.0</i>
 </p>
