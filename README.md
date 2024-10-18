@@ -31,8 +31,8 @@ Helping Web 2.0 businesses realize potential of implementing Web 3.0 collaborati
 
 The following documents aim to provide context for requirements analysis and solution identification for a given initiative or long-term planning related to establishing a successful DAO within an existing organization or workplace:
 
-- [Pitch](./Pitch.md)
-- [Solution Approach](./SolutionApproach.md)
+- [Pitch](./docs/Pitch.md)
+- [Solution Approach](./docs/SolutionApproach.md)
 
 ### Installation
 
@@ -40,7 +40,7 @@ Not applicable.
 
 ### Usage
 
-For examples of how to use the project, see [Scenarios and Use Cases](./UseCases.md).
+For examples of how to use the project, see [Scenarios and Use Cases](./docs/UseCases.md).
 
 ### Many Thanks<a name="thanks"></a>
 
