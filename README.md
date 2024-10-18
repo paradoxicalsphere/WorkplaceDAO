@@ -80,11 +80,11 @@ Factory DAO
 <table>
     <tr>
         <th align="center">
-            <img width="500" height="1">
+            <img width="460" height="1">
             <p>&nbsp;</p>
         </th>
         <th align="center">
-            <img width="500" height="1">
+            <img width="460" height="1">
             <p><a href="./Pitch.md">Pitch&nbsp;&nbsp;—></a></p>
         </th>
     </tr>
