@@ -1,17 +1,8 @@
 ## Establishing an Incorruptible DAO Within Existing Organizations and Workplaces<a name="introduction"></a>
 
----
-
-**Author:** [Oliver Sterzik](https://www.linkedin.com/in/oliversterzik/)  
-**Contact E-mail:** <support@paradoxicalsphere.com>  
-**Created:** 2024-10-01  
-**License:** [DMCA](https://www.dmca.com/r/pz0e34q)  
-
----
-
 ### About the Author
 
-Oliver works as a [Canadian Certified Counsellor](https://www.ccpa-accp.ca/) in private practice near Vancouver, British Columbia.
+[Oliver Sterzik](https://www.linkedin.com/in/oliversterzik/) works as a [Canadian Certified Counsellor](https://www.ccpa-accp.ca/) in private practice near Vancouver, British Columbia.
 
 For 15 years, he contributed as a Technical Writer and Instructional Designer with small to large enterprises developing mainly relational database or big data products. He also has training in Business Analysis.
 
