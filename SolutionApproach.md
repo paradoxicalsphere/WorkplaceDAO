@@ -71,7 +71,7 @@ While seeming more inefficient, the process of a DAO may be important for develo
 
 ### Solution Components<a name="components"></a>
 
-The current proposal discusses solution components in terms of:
+The current proposal discusses components of the solution in terms of:
 
 - [New Processes](#processes)
 - [Software Applications](#software)
