@@ -97,7 +97,7 @@ Decision-making power in the form of DAO tokens is allocated based on assessment
 
 For example, the solution scope of a DAO may include, but not be limited to, deciding disbursements to selected charities and not-for-profit organizations within the local community that the organization may support.
 
-DAOs may tokenize real-world assets and forms of compensation, such as salary, stock options, vacation time or other financial incentives.
+Also, DAOs may tokenize real-world assets and forms of compensation, such as salary, stock options, vacation time or other financial incentives.
 
 <!-- Explore tying DAO tokens directly to salary, stock options, vacation or other financial incentives? https://www.rndao.io/blog/post/startups-from-solo-to-multiplayer-from-ad-hoc-to-systematic -->
 
