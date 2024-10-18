@@ -56,6 +56,10 @@ Nick Almond
 Factory DAO
 <!-- Nick invited me to chat further about the idea via direct messages. His Telegram contact is @DrNickA https://t.me/factdao He said, "Be persistent. My Telegram is a nightmare." -->
 
+Monica Tsang
+*Researcher*
+Q Protocol
+
 <!-- **Kevin Owocki, Founder, Gitcoin | 1-on-1 session -->
 <!-- **Nick Almond, Founder, Factory DAO | implementation -->
 <!-- **Andrea Gallagher, Research Lead, RnDAO | methodologies -->
