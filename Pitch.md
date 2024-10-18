@@ -1,4 +1,4 @@
-# Pitch
+## Pitch
 
 <p align="center">
     <img src="https://github.com/paradoxicalsphere/arbitrum-collabtech-hackathon/blob/main/images/pitch-01.png" alt="" title="">
