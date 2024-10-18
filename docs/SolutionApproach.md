@@ -95,11 +95,11 @@ Decision-making power in the form of DAO tokens is allocated based on assessment
 - Mitigate risks of losing social capital that may be associated with speaking up vocally and passionately
 - Shift social engagement towards increasing cooperation
 
+For example, the solution scope may include, but not be limited to, deciding disbursements to selected charities and not-for-profit organizations within the local community that the organization may support.
+
 DAOs may tokenize real-world assets and forms of compensation, such as salary, stock options, vacation time or other financial incentives.
 
 <!-- Explore tying DAO tokens directly to salary, stock options, vacation or other financial incentives? https://www.rndao.io/blog/post/startups-from-solo-to-multiplayer-from-ad-hoc-to-systematic -->
-
-For example, the solution scope may include, but not be limited to, deciding disbursements to selected charities and not-for-profit organizations within the local community that the organization may support.
 
 Customers may benefit from improved organizational responsiveness and engagement that a DAO may bring.
 
