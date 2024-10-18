@@ -1,4 +1,4 @@
-# Scenarios and Use Cases
+## Scenarios and Use Cases
 
 The following use cases describe how actors may interact with the proposed [solution approach](./SolutionApproach.md) to respond to events and accomplish business goals:
 
@@ -6,7 +6,7 @@ The following use cases describe how actors may interact with the proposed [solu
 - [Designing a User Interface](#ui)
 - [Helping Incentivize a Staking Community](#staking)
 
-## Accessing Global Human Capital<a name="humancapital"></a>
+### Accessing Global Human Capital<a name="humancapital"></a>
 
 A business having a traditional organization structure posts bounty jobs on the corporate Web site. Workers, who may be pseudonymous and work remotely, are members of a DAO within the organization supported by a [Web 5.0 platform](https://www.lcx.com/introduction-to-web-5-0/). When applying for bounty jobs, applicants may be short listed partially based on a blockchain-based reputation system using 360-degree reviews of past work experiences. <!-- How long may reviews be editable? --> Workers receive tokens representing decision-making power in the DAO based on reputation. Work and feedback are submitted using the blockchain. Payments for successfully completed jobs may be processed in fiat or cryptocurrencies. A history recording work experiences, reviews and payments for each worker, as needed to meet tax and regulatory requirements, is stored on the blockchain using non-fungible tokens (NFTs).
 
@@ -16,7 +16,7 @@ A business having a traditional organization structure posts bounty jobs on the 
 **Scope:**  Bounty Work Procurement System  
 **Level:** Summary
 
-### Main Success Scenario
+#### Main Success Scenario
 
 1. A worker located anywhere in the world identifies a bounty job of interest on the company's Web site.
 2. The worker applies for the job pseudonymously using zero-knowledge proofs of past work experiences and digital IDs (DIDs).
@@ -27,13 +27,13 @@ A business having a traditional organization structure posts bounty jobs on the 
 7. When the bounty job is complete, the worker reviews the work experience and receives a review from the company. Reviews are stored using NFTs.
 8. The worker receives tax forms related to completed work that the company prepares according to regulations, also using NFTs.
 
-### Extensions
+#### Extensions
 
 5a. Pseudonymous workers may form teams and make work-related decisions collectively.
 
 <!-- In Nick Almond's (Factory DAO) mentoring session, he described the bounty work / gig worker scenario in response to my question(s). -->
 
-## Designing a User Interface<a name="ui"></a>
+### Designing a User Interface<a name="ui"></a>
 
 A Project Manager with a multinational automative manufacturer gains responsibility for a project to redesign the user interface of a car. Leveraging an employee Decentralized Autonomous Organization (DAO), the Project Manager gives members of the project team autonomy over decisions related to the redesign.<sup><a href="#ToyotaHackathon">1</a></sup>
 
@@ -41,7 +41,7 @@ A Project Manager with a multinational automative manufacturer gains responsibil
 **Scope:**  Project to Redesign the User Interface of a Production Car Model  
 **Level:** Summary
 
-### Main Success Scenario
+#### Main Success Scenario
 
 1. At a high level—without examining specific details of tasks—the Project Manager plans the work required by the project team, including milestones requiring a vote by the DAO.
 2. The Project Manager selects team members, including developers, user interface designer, graphical designer and test driver.
@@ -50,11 +50,11 @@ A Project Manager with a multinational automative manufacturer gains responsibil
 5. When the project reaches milestones involving votes by team members in the DAO, the Project Manager reviews voting results and updates project planning documents according to the decisions that the DAO makes.
 6. When the project completes successfully, the Project Manager sends team members a non-fungible token (NFT) reflecting contributions to the project.
 
-### Extensions
+#### Extensions
 
 4a. As responsibilities and personnel may change throughout the project, the Project Manager and team members may redistribute tokens as needed.
 
-## Helping Incentivize a Staking Community<a name="staking"></a>
+### Helping Incentivize a Staking Community<a name="staking"></a>
 
 One or more companies using more typically traditional hierarchical reporting structures are involved in developing and growing a Web 3.0 ecosystem. In the ecosystem, community members comprised of the general public may purchase blockchain tokens, and then stake tokens in pools to help secure the network and receive rewards.
 
@@ -64,14 +64,14 @@ Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becom
 **Scope:** Web 3.0 Staking Community  
 **Level:** Summary
 
-### Main Success Scenario
+#### Main Success Scenario
 
 1. Based on the results of a successful annual performance review, the employee is allocated a number of tokens only for the purposes of staking to existing pools within the ecosystem.
 2. As one of numerous day-to-day responsibilities, the employee maintains some awareness of behaviour in the staking community by engaging through a variety of news channels, social media and word of mouth.
 3. The employee recognizes self-interested behaviour in the staking community that begins to centralize power too much. For example, a single pool may inadvertently begin gaining too much voting power through collusion, or a single entity may be indentified as operating multiple stake pools.
 4. While the employee cannot punish self-interested behaviour that may occur, managing allocated staking tokens enables the employee to act meaningfully in the interests of the ecosystem as a whole to balance self-interested behaviour. For example, the employee may respond to centralization by staking tokens to one or more different, smaller pools reflecting the values of the employee and company. If the employee already stakes tokens to a pool identified as becoming too central in the ecosystem, then the employee may remove some stake from the pool.
 
-### Extensions
+#### Extensions
 
 3a. If the ecosystem seems to function well, then the employee may decide not to stake any allocated tokens.
 
@@ -79,7 +79,7 @@ Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becom
 
 <!-- The scenario is based on my response to CIP-1694 in the Cardano ecosystem, available at https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/main/CIP-x/README.md -->
 
-# References<a name="references"></a>
+## References<a name="references"></a>
 
 <a name="ToyotaHackathon"></a><sup>1</sup> [Toyota Hackathon Submission](https://github.com/ok-Alice/toyota-astar-hackathon)
 
