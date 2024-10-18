@@ -79,7 +79,7 @@ Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becom
 
 <!-- The scenario is based on my response to CIP-1694 in the Cardano ecosystem, available at https://github.com/paradoxicalsphere/cardano-improvement-proposals/blob/main/CIP-x/README.md -->
 
-## References<a name="references"></a>
+### References<a name="references"></a>
 
 <a name="ToyotaHackathon"></a><sup>1</sup> [Toyota Hackathon Submission](https://github.com/ok-Alice/toyota-astar-hackathon)
 
