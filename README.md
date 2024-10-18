@@ -68,4 +68,4 @@ Factory DAO
 <!-- Ana Maria Y. | funding -->
 
 <br />
-<p><a href="./docs/Pitch.md">Pitch&nbsp;&nbsp;—></a></p>
+<p align="center"><a href="./docs/Pitch.md">Pitch&nbsp;&nbsp;—></a></p>
