@@ -6,6 +6,8 @@ The following use cases describe how actors may interact with the proposed [solu
 - [Designing a User Interface](#ui)
 - [Helping Incentivize a Staking Community](#staking)
 
+The *Main Success Scenario* is the intended case. The *Extensions* section describes what may occur differently during the scenario. The numbers in the *Extensions* refer to the step numbers in the *Main Success Scenario* at which each different situation is detected.<sup><a href="#AlistairCockburn">1</a></sup>
+
 ### Accessing Global Human Capital<a name="humancapital"></a>
 
 A business having a traditional organization structure posts bounty jobs on the corporate Web site. Workers, who may be pseudonymous and work remotely, are members of a DAO within the organization supported by a [Web 5.0 platform](https://www.lcx.com/introduction-to-web-5-0/). When applying for bounty jobs, applicants may be short listed partially based on a blockchain-based reputation system using 360-degree reviews of past work experiences. <!-- How long may reviews be editable? --> Workers receive tokens representing decision-making power in the DAO based on reputation. Work and feedback are submitted using the blockchain. Payments for successfully completed jobs may be processed in fiat or cryptocurrencies. A history recording work experiences, reviews and payments for each worker, as needed to meet tax and regulatory requirements, is stored on the blockchain using non-fungible tokens (NFTs).
@@ -35,7 +37,7 @@ A business having a traditional organization structure posts bounty jobs on the 
 
 ### Designing a User Interface<a name="ui"></a>
 
-A Project Manager with a multinational automative manufacturer gains responsibility for a project to redesign the user interface of a car. Leveraging an employee Decentralized Autonomous Organization (DAO), the Project Manager gives members of the project team autonomy over decisions related to the redesign.<sup><a href="#ToyotaHackathon">1</a></sup>
+A Project Manager with a multinational automative manufacturer gains responsibility for a project to redesign the user interface of a car. Leveraging an employee Decentralized Autonomous Organization (DAO), the Project Manager gives members of the project team autonomy over decisions related to the redesign.<sup><a href="#ToyotaHackathon">2</a></sup>
 
 **Primary Actor:** Project Manager  
 **Scope:**  Project to Redesign the User Interface of a Production Car Model  
@@ -81,7 +83,9 @@ Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becom
 
 ### References<a name="references"></a>
 
-<a name="ToyotaHackathon"></a><sup>1</sup> [Toyota Hackathon Submission](https://github.com/ok-Alice/toyota-astar-hackathon)
+<a name="AlistairCockburn"></a><sup>1/sup> [Writing Effective Use Cases](https://www.academia.edu/32227372/Alistair_Cockburn_Writing_Effective_Use_Cases)
+
+<a name="ToyotaHackathon"></a><sup>2/sup> [Toyota Hackathon Submission](https://github.com/ok-Alice/toyota-astar-hackathon)
 
 <br />
 <p align="center"><a href="./SolutionApproach.md"><—&nbsp;&nbsp;Solution Approach</a></p>
