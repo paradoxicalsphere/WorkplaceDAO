@@ -4,7 +4,7 @@
 
 [Oliver Sterzik](https://www.linkedin.com/in/oliversterzik/) works as a [Canadian Certified Counsellor](https://www.ccpa-accp.ca/) in private practice near Vancouver, British Columbia.
 
-For 15 years, he contributed as a Technical Writer and Instructional Designer with small to large enterprises developing mainly relational database or big data products. He also has training in Business Analysis.
+Previously, for 15 years he contributed as a Technical Writer and Instructional Designer with small to large enterprises developing mainly relational database or big data products. He also has training in Business Analysis.
 
 Oliver has a [research interest](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611) in how people interact within the context of relationship systems as a basis for improving organizational performance, and holds a related [US patent](https://patents.google.com/patent/US11423362B2).
 
