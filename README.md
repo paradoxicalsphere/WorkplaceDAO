@@ -68,15 +68,4 @@ Factory DAO
 <!-- Ana Maria Y. | funding -->
 
 <br />
-<table>
-    <tr>
-        <th align="center">
-            <img width="400" height="1">
-            <p>&nbsp;</p>
-        </th>
-        <th align="center">
-            <img width="400" height="1">
-            <p><a href="./docs/Pitch.md">Pitch&nbsp;&nbsp;—></a></p>
-        </th>
-    </tr>
-</table>
+<p><a href="./docs/Pitch.md">Pitch&nbsp;&nbsp;—></a></p>
