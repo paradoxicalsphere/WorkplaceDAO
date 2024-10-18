@@ -1,6 +1,6 @@
 # Scenarios and Use Cases
 
-The following use cases describe how actors may interact with the [proposed solution](./SolutionApproach.md) to respond to events and accomplish business goals:
+The following use cases describe how actors may interact with the proposed [solution approach](./SolutionApproach.md) to respond to events and accomplish business goals:
 
 - [Accessing Global Human Capital](#humancapital)
 - [Designing a User Interface](#ui)
