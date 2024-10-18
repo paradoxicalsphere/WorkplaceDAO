@@ -84,15 +84,4 @@ Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becom
 <a name="ToyotaHackathon"></a><sup>1</sup> [Toyota Hackathon Submission](https://github.com/ok-Alice/toyota-astar-hackathon)
 
 <br />
-<table>
-    <tr>
-        <th align="center">
-            <img width="460" height="1">
-            <p><a href="./SolutionApproach.md"><—&nbsp;&nbsp;Solution Approach</a></p>
-        </th>
-        <th align="center">
-            <img width="460" height="1">
-            <p>&nbsp;</p>
-        </th>
-    </tr>
-</table>
+<p align="center"><a href="./SolutionApproach.md"><—&nbsp;&nbsp;Solution Approach</a></p>
