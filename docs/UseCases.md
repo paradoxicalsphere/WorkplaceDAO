@@ -87,11 +87,11 @@ Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becom
 <table>
     <tr>
         <th align="center">
-            <img width="500" height="1">
+            <img width="460" height="1">
             <p><a href="./SolutionApproach.md"><—&nbsp;&nbsp;Solution Approach</a></p>
         </th>
         <th align="center">
-            <img width="500" height="1">
+            <img width="460" height="1">
             <p>&nbsp;</p>
         </th>
     </tr>
