@@ -59,7 +59,7 @@ Factory DAO
 Monica Tsang  
 *Researcher*  
 Q Protocol
-<!-- Monica invited sending her proposals to connect with experts in the field. -->
+<!-- Monica invited sending her the proposal to connect further with experts in the field. Her contact e-mail is monica.tsang@uwaterloo.ca -->
 
 <!-- **Kevin Owocki, Founder, Gitcoin | 1-on-1 session -->
 <!-- **Nick Almond, Founder, Factory DAO | implementation -->
