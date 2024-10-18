@@ -100,7 +100,7 @@ For example, the solution scope of a DAO may include, but not be limited to, dec
 
 Also, DAOs may tokenize real-world assets and forms of compensation, such as salary, stock options, vacation time or other financial incentives.
 
-<!-- Explore tying DAO tokens directly to salary, stock options, vacation or other financial incentives? https://www.rndao.io/blog/post/startups-from-solo-to-multiplayer-from-ad-hoc-to-systematic -->
+<!-- Explore tying DAO tokens directly to salary, stock options, vacation or other financial incentives? https://www.rndao.io/blog/post/startups-from-solo-to-multiplayer-from-ad-hoc-to-systematic Tokens may represent time allotted in a time-share vacation property that the company may offer to employees, for example. -->
 
 Customers may benefit from improved organizational responsiveness and engagement that a DAO may bring.
 
