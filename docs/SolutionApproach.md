@@ -95,7 +95,7 @@ Decision-making power in the form of DAO tokens is allocated based on assessment
 - Mitigate risks of losing social capital that may be associated with speaking up vocally and passionately
 - Shift social engagement towards increasing cooperation
 
-DAO tokens may relate directly to forms of compensation, such as salary, stock options, vacation time or other financial incentives.
+DAO tokens may relate directly to real-world assets and forms of compensation, such as salary, stock options, vacation time or other financial incentives.
 
 <!-- Explore tying DAO tokens directly to salary, stock options, vacation or other financial incentives? https://www.rndao.io/blog/post/startups-from-solo-to-multiplayer-from-ad-hoc-to-systematic -->
 
