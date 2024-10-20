@@ -16,9 +16,9 @@ To date, most Web 3.0 collaboration technology implementations seem to occur out
 
 The current proposal aims to provide context for requirements analysis and solution identification to support a given initiative or long-term planning related to establishing a successful decentralized autonomous organization (DAO) within existing organizations or workplaces.
 
-Helping Web 2.0 businesses realize potential of implementing Web 3.0 collaboration technologies to improve organizational or workplace effectiveness may play a role in successfully achieving Web 3.0 mass adoption.
-
 The scope of the submission is planning to explore the potential usefulness and uniqueness of the idea.
+
+Helping Web 2.0 businesses realize potential of implementing Web 3.0 collaboration technologies to improve organizational or workplace effectiveness may play a role in successfully achieving Web 3.0 mass adoption.
 
 <!-- ANOTHER IDEA: Collaboration technology for children or education would seem to be another good idea in general. -->
 
