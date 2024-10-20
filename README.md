@@ -24,7 +24,7 @@ Helping Web 2.0 businesses realize potential of implementing Web 3.0 collaborati
 
 ### Features
 
-The following documents aim to provide context for requirements analysis and solution identification for a given initiative or long-term planning related to establishing a successful DAO within an existing organization or workplace:
+The following documents aim to provide context for further planning and development related to establishing a successful DAO within an existing organization or workplace:
 
 - [Pitch](./docs/Pitch.md)
 - [Solution Approach](./docs/SolutionApproach.md)
