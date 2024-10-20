@@ -12,7 +12,9 @@ He became interested in decentralized governance models in 2022, when Cardano en
 
 ### Description
 
-To date, most Web 3.0 collaboration technology implementations seem to occur outside more traditional, mature industries and markets. The current proposal aims to provide context for requirements analysis and solution identification to support a given initiative or long-term planning related to establishing a successful decentralized autonomous organization (DAO) within existing organizations or workplaces.
+To date, most Web 3.0 collaboration technology implementations seem to occur outside more traditional, mature industries and markets.
+
+The current proposal aims to provide context for requirements analysis and solution identification to support a given initiative or long-term planning related to establishing a successful decentralized autonomous organization (DAO) within existing organizations or workplaces.
 
 Helping Web 2.0 businesses realize potential of implementing Web 3.0 collaboration technologies to improve organizational or workplace effectiveness may play a role in successfully achieving Web 3.0 mass adoption.
 
