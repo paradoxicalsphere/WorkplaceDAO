@@ -60,7 +60,7 @@ A Project Manager with a multinational automative manufacturer gains responsibil
 
 One or more companies using more typically traditional hierarchical organizational structures are involved in developing and growing a Web 3.0 ecosystem. In the ecosystem, community members comprised of the general public may purchase blockchain tokens, and then stake tokens in pools to help secure the network and receive rewards.
 
-Particularly within relatively new Web 3.0 ecosystems, the risks of stakes becoming centralized may be higher. To mitigate the risks, the companies establish a DAO for employees that incentivizes making staking decisions in the interests of the ecosystem as a whole, rather than based on individual self interest. Management allocates tokens to employees for staking based on key performance indicators (KPIs). While employees may make decisions on how to stake allocated tokens within the ecosystem, features in the technology stack prevent employees from spending allocated tokens and rewards.
+Perhaps particularly within relatively new Web 3.0 ecosystems, according to the [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle), the risks of stakes becoming centralized may be higher. To mitigate the risks, the companies establish a DAO for employees that incentivizes making staking decisions in the interests of the ecosystem as a whole, rather than based on individual self interest. Management allocates tokens to employees for staking based on key performance indicators (KPIs). While employees may make decisions on how to stake allocated tokens within the ecosystem, features in the technology stack prevent employees from spending allocated tokens and rewards.
 
 **Primary Actor:** Employee  
 **Scope:** Web 3.0 Staking Community  
