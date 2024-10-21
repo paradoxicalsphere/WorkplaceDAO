@@ -22,6 +22,8 @@ Helping Web 2.0 businesses realize potential of implementing Web 3.0 collaborati
 
 <!-- ANOTHER IDEA: Collaboration technology for children or education would seem to be another good idea in general. -->
 
+<!-- ANOTHER IDEA: In the current idea, I am extending research in family systems to organizations snd workplaces. How about investigating how establishing a DAO as a decision-making method in functional or dysfunctional families may be therapeutic and help to improve conflict in family relations? For example, how may a DAO help manage or bridge splits in my own family? -->
+
 ### Features
 
 The following documents aim to provide context for further planning and development related to establishing a successful DAO within an existing organization or workplace:
