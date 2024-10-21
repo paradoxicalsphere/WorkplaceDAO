@@ -6,7 +6,7 @@ The following use cases describe how actors may interact with the proposed [solu
 - [Designing a User Interface](#ui)
 - [Helping Incentivize a Staking Community](#staking)
 
-The *Main Success Scenario* is the intended case. The *Extensions* section describes what may occur differently during the scenario. The numbers in the *Extensions* refer to the step numbers in the *Main Success Scenario* at which each different situation is detected.<sup><a href="#AlistairCockburn">1</a></sup>
+In the use cases, the *Main Success Scenario* is the intended case. The *Extensions* section describes what may occur differently during the scenario. The numbers in the *Extensions* refer to the step numbers in the *Main Success Scenario* at which each different situation is detected.<sup><a href="#AlistairCockburn">1</a></sup>
 
 ### Accessing Global Human Capital<a name="humancapital"></a>
 
