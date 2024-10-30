@@ -35,4 +35,4 @@
 <!-- End the pitch by saying that I'm currently seeking input on possible next steps regarding the idea. -->
 
 <br />
-<p align="center"><a href="../README.md"><—&nbsp;&nbsp;Description</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./SolutionApproach.md">Solution Approach&nbsp;&nbsp;—></a></p>
+<p align="center"><a href="../README.md"><—&nbsp;&nbsp;Introduction</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./SolutionApproach.md">Solution Approach&nbsp;&nbsp;—></a></p>
