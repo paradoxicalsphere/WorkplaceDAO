@@ -1,43 +1,16 @@
-## Establishing an Incorruptible DAO Within Existing Organizations and Workplaces<a name="introduction"></a>
+## Establishing an Incorruptible DAO Within Existing Organizations and Workplaces
 
-### About the Author
+<!-- The Sterzik Test: Does an IT tool aim to help or replace people? Good ideas aim to help people. Ideas destined to fail aim to replace people. -->
 
-[Oliver Sterzik](https://www.linkedin.com/in/oliversterzik/) works as a [Canadian Certified Counsellor](https://www.ccpa-accp.ca/) in private practice near Vancouver, British Columbia.
-
-Previously, for 15 years he contributed as a Technical Writer and Instructional Designer with small to large enterprises developing mainly relational database or big data products. He also has training in Business Analysis.
-
-Oliver has a [research interest](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611) in how people interact within the context of relationship systems as a basis for improving organizational performance, and holds a related [US patent](https://patents.google.com/patent/US11423362B2). Currently, he is seeking funding to support Ph.D. studies in the field of Industrial and Organizational Psychology.
-
-He became interested in decentralized governance models in 2022, when Cardano entered the Voltaire era.
-
-### Description
-
-To date, most Web 3.0 collaboration technology implementations seem to occur outside more traditional, mature industries and markets.
-
-The current proposal aims to provide context for requirements analysis and solution identification to support a given initiative or long-term planning related to establishing a successful decentralized autonomous organization (DAO) within existing organizations or workplaces.
-
-The scope of the submission is planning to explore the potential usefulness and uniqueness of the idea.
-
-Helping Web 2.0 businesses realize potential of implementing Web 3.0 collaboration technologies to improve organizational or workplace effectiveness may play a role in successfully achieving Web 3.0 mass adoption.
-
-<!-- ANOTHER IDEA: Collaboration technology for children or education would seem to be another good idea in general. -->
-
-<!-- ANOTHER IDEA: In the current idea, I am extending research in family systems to organizations snd workplaces. How about investigating how establishing a DAO as a decision-making method in functional or dysfunctional families may be therapeutic and help to improve conflict in family relations? For example, how may a DAO help manage or bridge splits in my own family? -->
-
-### Features
+### Introduction<a name="introduction"></a>
 
 The following documents aim to provide context for further planning and development related to establishing a successful DAO within an existing organization or workplace:
 
 - [Pitch](./docs/Pitch.md)
 - [Solution Approach](./docs/SolutionApproach.md)
+- [Scenarios and Use Cases](./docs/UseCases.md)
 
-### Installation
-
-Not applicable.
-
-### Usage
-
-For examples of how to use the project, see [Scenarios and Use Cases](./docs/UseCases.md).
+<!-- 241030 - In our online meeting today, ROSO said that DAOs have some hierarchy (presumably speaking from his experience in RnDAO). He did not elaborate. He seemed to offer the information as a criticism of the idea discussed in the current proposal. However, the comment seems to validate that some additional structure is required in order to establish a sustainable, egalitarian DAO practically. -->
 
 ### Many Thanks<a name="thanks"></a>
 
