@@ -14,28 +14,28 @@ The following documents aim to provide context for further planning and developm
 
 ### Many Thanks<a name="thanks"></a>
 
-Daniel Ospina  
+**Daniel Ospina**  
 *Organisation Design Lead*  
 [RnDAO](https://www.rndao.io/)
 
-Kevin Owocki  
+**Kevin Owocki**  
 *Co-Founder*  
 Gitcoin
 
-Max Lomu  
+**Max Lomu**  
 *Ecosystem Lead*  
 Everclear
 
-Joe Hernandez  
+**Joe Hernandez**  
 *Delegate*  
 Arbitrum DAO
 
-Nick Almond  
+**Nick Almond**  
 *Founder*  
 Factory DAO
 <!-- Nick invited me to chat further about the idea via direct messages. His Telegram contact is @DrNickA https://t.me/factdao He said, "Be persistent. My Telegram is a nightmare." -->
 
-Monica Tsang  
+**Monica Tsang**  
 *Researcher*  
 Q Protocol
 <!-- Monica invited sending her the proposal to connect further with experts in the field. Her contact e-mail is monica.tsang@uwaterloo.ca -->
