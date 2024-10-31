@@ -145,7 +145,7 @@ The current proposal considers the implementation of an incorruptible DAO within
 
 Successful implementation involves training and education for all stakeholders in a DAO. For example, education in preparation for establishing a DAO may include offering an introduction and practical experience related to fundamental game theory, such as the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma).
 
-Game theory supposes that games may be finite or infinite. In a finite game, the goal is to win when the game ends. In an infinite game, the goal is to continue playing.<sup><a href="#JamesCarse">10</a></sup> In other words, the goal of an infinite game is sustainability. Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends with winners and losers, just like any finite game. Decentralization and effective organizational function are not synonymous. In a successful DAO within an organization or workplace, employees recognize the importance of responding to negative effects for the sustainability of the business.<sup><a href="#CHT">11</a></sup> All participants in the DAO need the intention—and need to understand the critical importance of the intention for the sustainability of the DAO as well as the organization—to continue actively making efforts to work towards **balance**. Activities exploring how to contribute effectively as a member of a DAO may include playing games demonstrating that cooperation is more rewarding than self interest, particularly over time.
+Game theory supposes that games may be finite or infinite. In a finite game, the goal is to win when the game ends. In an infinite game, the goal is to continue playing.<sup><a href="#JamesCarse">11</a></sup> In other words, the goal of an infinite game is sustainability. Participants in a DAO need to know that infinite games may be played as finite games, in which case the game ends with winners and losers, just like any finite game. Decentralization and effective organizational function are not synonymous. In a successful DAO within an organization or workplace, employees recognize the importance of responding to negative effects for the sustainability of the business.<sup><a href="#CHT">12</a></sup> All participants in the DAO need the intention—and need to understand the critical importance of the intention for the sustainability of the DAO as well as the organization—to continue actively making efforts to work towards **balance**. Activities exploring how to contribute effectively as a member of a DAO may include playing games demonstrating that cooperation is more rewarding than self interest, particularly over time.
 
 <!-- Use Greenpilled as a resource in planning the curriculum of the education deliverable. -->
 
@@ -163,7 +163,7 @@ Unhealthy and unsafe workplace practices may:
 - Interfere with the capabilities of an organization to provide products and services to external stakeholders, and
 - Create liabilities for workers' compensation insurers
 
-The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.<sup><a href="#SterzikThesis">12</a></sup>
+The current solution approach suggests that organizations and workplaces recovering from and preventing toxic environments or negative interpersonal interactions may gain most from establishing a DAO, as an aspect of a wider strategy for continuous improvement.<sup><a href="#SterzikThesis">13</a></sup>
 
 <!-- Perhaps as a starting point for determining solution scope, consider pain points within the organization, including decision making processes that are painful or ineffectual within the organization. -->
 
@@ -173,9 +173,9 @@ The current solution approach suggests that organizations and workplaces recover
 
 ### Conclusion<a name="conclusion"></a>
 
-Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">12</a></sup>
+Effective organizations are typically more productive, often provide higher-quality services, and are usually more financially successful than less effective organizations.<sup><a href="#SterzikThesis">13</a></sup>
 
-In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">9</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams, helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">13</a></sup>
+In recent years, managers in various industries have been burdened with workload due to an increase in business decision making and team management. Within constraints that management and labor unions may set, DAOs introduce a layer of operation into existing organizations and workplaces giving employees greater control and autonomy over their work while also helping to reduce managers' workloads.<sup><a href="#Chainwire">9</a></sup> Managers focus on providing the context team members need to prioritize and execute their high-impact work, increasing trust, engagement and ownership on teams, helping employees have a greater impact on the company's growth.<sup><a href="#JuliaMartins">14</a></sup>
 
 ### References<a name="references"></a>
 
@@ -200,13 +200,13 @@ In recent years, managers in various industries have been burdened with workload
 <a name="UltimaIV"></a><sup>10</sup> [Ultima IV: Quest of the Avatar](https://en.wikipedia.org/wiki/Ultima_IV:_Quest_of_the_Avatar)
 <!-- In the Netflix show High Score S1:E3 the creator of Ultima discussed how he saw people playing Ultima I to III using betrayal. He identified that players felt no engagement or connectin with the protagonist in the games. He believed that allowing players to create avatars would help players play in a cooperative spirit. So, he created Ultima IV specifically so that you cannot win the game without heroism or altruism. He also introduced the concept of a avatar that the player may customize. Leverage the same invitation to members to relate to their presence and visibility within the DAO. -->
 
-<a name="JamesCarse"></a><sup>10</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
+<a name="JamesCarse"></a><sup>11</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 
-<a name="CHT"></a><sup>11</sup> [Key Issues Overview](https://www.humanetech.com/key-issues)
+<a name="CHT"></a><sup>12</sup> [Key Issues Overview](https://www.humanetech.com/key-issues)
 
-<a name="SterzikThesis"></a><sup>12</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
+<a name="SterzikThesis"></a><sup>13</sup> [Traffic Analysis as an Identifier of Toxic Workplace Environments or Negative Interpersonal Interactions in the Workplace: A Design Study](https://repository.nusystem.org/items/ddd6749f-da1c-47bc-9e34-10c276a8e611)
 
-<a name="JuliaMartins"></a><sup>13</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
+<a name="JuliaMartins"></a><sup>14</sup> [8 Tips for Doing Macromanagement the Right Way](https://asana.com/resources/macromanagement)
 
 <br />
 <p align="center"><a href="./Pitch.md"><—&nbsp;&nbsp;Pitch</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./UseCases.md">Scenarios and Use Cases&nbsp;&nbsp;—></a></p>
