@@ -16,7 +16,7 @@ The following documents aim to provide context for further planning and developm
 
 **Daniel Ospina**  
 *Organisation Design Lead*  
-[RnDAO](https://www.rndao.io/)
+RnDAO
 
 **Kevin Owocki**  
 *Co-Founder*  
