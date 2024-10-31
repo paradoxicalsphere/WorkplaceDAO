@@ -114,7 +114,7 @@ Customers may benefit from improved organizational responsiveness and engagement
 
 #### Software Applications<a name="software"></a>
 
-The current proposal recommends building solutions using [Arbitrum](https://arbitrum.io/).
+<!-- The current proposal recommends building solutions using [Arbitrum](https://arbitrum.io/). -->
 
 In general, the solution approach requires a blockchain implementation supporting the following features:
 
@@ -125,7 +125,7 @@ In general, the solution approach requires a blockchain implementation supportin
 
 <!-- What about privacy considerations, for DAO members transacting on chain? -->
 
-Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">9</a></sup>
+Software application designs provide required features and functionality without users needing to understand the details of Web 3.0 technologies.<sup><a href="#Chainwire">9</a></sup> For example, DAO members create avatars.<sup><a href="#UltimaIV">10</a></sup>
 
 <!-- The goal of the Toyota hackathon on Astar was "creating a support tool allowing anyone to create teams, issue governance tokens and vote without needing to understand the details of Web 3.0." The technology stack needed to implement the current proposal in an existing organization or workplace may have similar features requirements, although used in a more structured manner. -->
 
@@ -196,6 +196,9 @@ In recent years, managers in various industries have been burdened with workload
 <a name="KPIs"></a><sup>8</sup> [What Is a KPI?](https://www.qlik.com/us/kpi)
 
 <a name="Chainwire"></a><sup>9</sup> [Web 3.0 Hackathon on Astar Sponsored by Toyota Motor Corporation](https://dailyhodl.com/2023/02/01/web-3-0-hackathon-on-astar-sponsored-by-toyota-motor-corporation/)
+
+<a name="UltimaIV"></a><sup>10</sup> [Ultima IV: Quest of the Avatar](https://en.wikipedia.org/wiki/Ultima_IV:_Quest_of_the_Avatar)
+<!-- In the Netflix show High Score S1:E3 the creator of Ultima discussed how he saw people playing Ultima I to III using betrayal. He identified that players felt no engagement or connectin with the protagonist in the games. He believed that allowing players to create avatars would help players play in a cooperative spirit. So, he created Ultima IV specifically so that you cannot win the game without heroism or altruism. He also introduced the concept of a avatar that the player may customize. Leverage the same invitation to members to relate to their presence and visibility within the DAO. -->
 
 <a name="JamesCarse"></a><sup>10</sup> [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 
